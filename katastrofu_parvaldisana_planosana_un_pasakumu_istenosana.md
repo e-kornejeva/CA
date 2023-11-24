@@ -192,7 +192,7 @@ Gāzes vadi Latvijā:
 - Sajaucoties ar gaisu (5-15%) dabasgāze veido sprādzienbīstamu maisījumu
 - Ik pēc 20-25 km ierīkotu aizvari gāzes padeves pārtraukšanai! 
  
-## Bioloģisko aģentu riska grupas
+### Bioloģisko aģentu riska grupas
 
  Valsts teritorijā ir izvietotas tikai 2 laboratorijas, kurās var tikt izmeklēti paraugi 3. riska grupas bioloģisko aģentu noteikšanai 
  1. Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts «BIOR»;
@@ -218,7 +218,7 @@ Gāzes vadi Latvijā:
 - Ik pēc 20-25 km ierīkotu aizvari gāzes padeves pārtraukšanai!
 
 
-## Dzelzceļa stacijas
+### Dzelzceļa stacijas
 
  Valsts nozīmes paaugstinātas bīstamības objekti (8) – dzelzceļa infrastruktūras objekti:
  - VAS "Latvijas dzelzceļš" Daugavpils dzelzceļa stacija
