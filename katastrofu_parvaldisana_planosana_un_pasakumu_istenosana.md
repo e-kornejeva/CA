@@ -468,3 +468,32 @@ Materiālās rezerves izmanto:
 1.-5. Iesaista, pamatojoties uz pilnvarotas amatpersonas rakstveida atļauju.
 1., 2., 4. Iesaista, pamatojoties uz VUGD priekšnieka rakstveida atļauju.
 6.-7. Iesaista, pamatojoties uz VUGD priekšnieka rakstveida atļauju.
+
+## 2. tests
+
+Katastrofas pārvaldīšana ietver:
+- Preventīvos pasākumus
+- Gatavības pasākumus
+- Reaģēšanas pasākumus
+- Seku likvidēšanas pasākumus
+- Atjaunošanas pasākumus
+
+Aizsardzības ministrija vadīs katastrofu, kas saistīta ar militāro infrastruktūru.
+
+Klimata un enerģētikas ministrija vadīs katastrofu, ko izraisījusi avārija HES.
+
+Iekšlietu ministrija ir VUGD padotības iestāde.
+
+Veselības ministrija uzņemsies vadību epidēmijas gadījumā.
+
+VARAM vadīs ar ķīmiskās vielas noplūdi saistīto katastrofu.
+
+Zemkopības ministrija vadīs ar masveida dzīvnieku saslimšanu saistīto katastrofu.
+
+
+
+Kurš dienests likvidēs bīstamās ķīmiskās vielas noplūdes sekas jūras krastā?
+
+Kurš dienests likvidēs elektrotīklu bojājumus?
+
+Kurš dienests likvidēs epifitotijas sekas?
