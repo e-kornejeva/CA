@@ -99,3 +99,14 @@ Nodarbināto apmācību CA jautājumos organizē darba devējs – paaugstināta
 
 CA sistēmas gatavības pārbaudes nodrošināšanai valsts un pašvaldību institūcijas organizē CA un katastrofas pārvaldīšanas mācības. (Civilās aizsardzības un katastrofas pārvaldīšanas likums) Piemērs - CA mācības Daugavpilī. Video pieejams šeit: https://stream.lu.lv/digitek_civilaaizs_knv_media3knsxhg6ngb7hy3aavox85iubi.mp4
 
+# 1. tests
+
+Katastrofas veidi civilās aizsardzības un katastrofas pārvaldīšanas likuma izpratnē ir dabas katastrofas un cilvēku izraisītas katastrofas.
+
+Katastrofas pārvaldīšanas pasākumiem atbilst preventīvie, gatavības, reaģēšanas, seku likvidēšanas, atjaunošanas pasākumi.
+
+Notikums, kas izraisījis cilvēku upurus un apdraud cilvēku dzīvību vai veselību, nodarījis kaitējumu vai radījis apdraudējumu cilvēkiem, videi vai īpašumam, kā arī radījis vai rada būtiskus materiālos un finansiālos zaudējumus un pārsniedz atbildīgo valsts un pašvaldības institūciju ikdienas spējas novērst notikuma postošos apstākļus, ir katastrofa.
+
+Robežu starp jūras piekrastes sauszemes daļu un jūras piekrastes ūdeņiem normālā stāvoklī apzīmē (sauc) par jūras krasta līniju.
+
+Pamatvajadzībās ietilpst uzturs, mājoklis, veselības aprūpe, medicīniskā palīdzība, elektroapgāde, ūdensapgāde, siltumapgāde, atkritumu un notekūdeņu savākšana, sakaru nodrošinājums.
