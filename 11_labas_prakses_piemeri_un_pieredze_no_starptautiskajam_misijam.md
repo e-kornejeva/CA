@@ -24,10 +24,22 @@ Pašlaik 12 ANO miera operācijas ir izvietotas 3 dažādos reģionos: septiņas
 
 Avots: https://www.un.org/globalcall/content/field-missions
 
-#### URL: #@@host#/pluginfile.php/643056/mod_book/chapter/2040/un_fieldmissions_map_2021.png
-|           |                                                         |
-|-----------|---------------------------------------------------------|
-|MINURSO   	| ANO misija referenduma sarīkošanai Rietumsahārā		    	| 
-|MINUSCA    | ANO stabilizēšanas misija Centrālāfrikas Republikā   		|
-|MINUSMA 		| ANO daudzdimensiju integrētā stabilizācijas misija Mali	|
+[ANO miera uzturēšanas misijas](#@@host#/pluginfile.php/643056/mod_book/chapter/2040/un_fieldmissions_map_2021.png)
+
+|				    |										                                						|
+|-----------|---------------------------------------------------------------|
+|MINURSO    |ANO misija referenduma sarīkošanai Rietumsahārā			        	| 
+|MINUSCA    |ANO stabilizēšanas misija Centrālāfrikas Republikā   		    	|
+|MINUSMA 		|ANO daudzdimensiju integrētā stabilizācijas misija Mali	    	|
+|MONUSCO		|ANO stabilizēšanas misija Kongo Demokrātiskajā Republikā	    	|
+|UNDOF 			|ANO atdalīšanās stabilizācijas spēki (starp Izraēlu un Sīriju)	|
+|UNFICYP		|ANO Miera uzturēšanas spēki Kiprā							              	|
+|UNIFIL 		|ANO pagaidu spēki Libānā									                    	|
+|UNISFA			|ANO pagaidu drošības spēki Abejā (Sudāna)				          		|
+|UNMIK 			|ANO pagaidu administrācijas misija Kosovā					          	|
+|UNMISS			|ANO misija Dienvidsudānā									                    	|
+|UNMOGIP		|ANO militāro novērotāju grupa Indijā un Pakistānā			      	|
+|UNTSO			|ANO pamiera uzraudzības organizācija (Jeruzalemē)			      	|
+
+
 
