@@ -210,3 +210,111 @@ Starptautiskās misijas dalībnieki:
  - UNICEF – ANO Bērnu fonds;
  - NVO “Ārsti bez robežām”;
  - Apvienotās Karalistes, Kanādas un citu valstu naudas ziedojumi.
+
+
+# 2. Dalība kādā no starptautiskajām misijām – katastrofu palīdzības sniegšanas misija, misija karadarbības zonā, miera uzturēšanas misija, humānās palīdzības misija, brīvprātīgais darbs ANO sistēmā vai citā organizācijā
+
+Neraugoties uz dažādiem starptautisko operāciju mērķiem un to panākšanas līdzekļiem, izdalāmi pieci galvenie šādu misiju veidi.
+
+Starptautiskās operācijas (misijas) un dalība tajās
+
+1) Starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos. Tiek ievēroti trīs principi, kas ir savstarpēji saistīti un viens otru pastiprina: pušu piekrišana, objektivitāte, spēka nelietošana, izņemot pašaizsardzību un pilnvaru aizstāvību. Piemēram, SFOR, KFOR.
+
+SFOR – Stabilizācijas spēki Bosnijā un Hercegovinā (Stabilization Force in Bosnia and Herzegovina) bija NATO vadīti daudznacionāli miera uzturēšanas spēki, kas tika izvietoti Bosnijā un Hercegovinā pēc Bosnijas kara. Lai gan SFOR vadīja NATO, vairākas valstis, kas nav NATO sastāvā, piešķīra karaspēku. 2004. gada decembrī to aizstāja EUFOR Althea, ES misija, kas ar ANO mandātu ir pilnvarota palīdzēt īstenot 1995. gada Vispārējā nolīguma par mieru Bosnijā un Hercegovinā militāros aspektus.
+
+#### IMG: #@@host#/pluginfile.php/643056/mod_book/chapter/2041/BNpolitical.gif
+
+Avots: http://www.cotf.edu/earthinfo/balkans/bosnia/BNpolset.html
+
+Attēlā: Bosnijas un Hercegovinas teritoriālais sadalījums pēc Bosnijas kara: Serbu Republika – serbu apdzīvotas teritorijas (sarkanā krāsa), Bosnijas un Hercegovinas Federācija – horvātu apdzīvotas teritorijas (dzeltenā krāsa).
+
+KFOR – Kosovas spēki (Kosovo Force) ir NATO vadītā miera uzturēšanas misija, kas Kosovā darbojas kopš 1999. gada jūnija, lai veicinātu mieru un stabilitāti šajā reģionā. KFOR mandāts izriet no Apvienoto Nāciju Organizācijas Drošības padomes 1999. gada 10. jūnija Rezolūcijas un Militāri tehniskā nolīguma starp NATO un Dienvidslāvijas Federatīvo Republiku un Serbiju. KFOR darbojas saskaņā ar ANO Statūtu VII nodaļu un tādējādi ir miera nodrošināšanas operācija.
+
+#### IMG: #@@host#/pluginfile.php/643056/mod_book/chapter/2041/serbia-kosovo-1.png
+
+Avots: https://cursdeguvernare.ro/de-ce-se-amplifica-tensiunile-din-relatia-serbia-kosovo.html
+
+Attēlā: ar tumšo krāsu atzīmēti etnisko serbu minoritātes apdzīvotie rajoni, ar gaiši dzelteno krāsu – Kosovas valdību kontrolējošo etnisko albāņu apdzīvotie rajoni.
+
+2) Starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītajam personālam ir tiesības piedalīties karadarbībā. Piemēram, ISAF.
+
+ISAF – Starptautiskie drošības atbalsta spēki (International Security Assistance Force) bija viena no lielākajām koalīcijām vēsturē, un līdz šim tā ir NATO vissarežģītākā misija. Savā augstākajā līmenī spēki sastāvēja no vairāk nekā 130 000 karavīru ar karavīriem no 51 NATO un partnervalsts. NATO sabiedrotie ienāca Afganistānā 2001. gadā. No 2003. gada augusta NATO vadīja ANO pilnvarotos Starptautiskos drošības atbalsta spēkus (ISAF), kuru mērķis bija radīt apstākļus, lai Afganistānas valdība varētu īstenot savas pilnvaras visā valstī un palielināt Afganistānas kapacitāti. Valsts drošības spēki, tostarp cīņā pret starptautisko terorismu. ISAF tika pabeigts 2014. gada decembrī, kad Afganistānas Nacionālie aizsardzības un drošības spēki uzņēmās pilnu atbildību par drošību visā savā valstī.
+
+#### IMG: #@@host#/pluginfile.php/643056/mod_book/chapter/2041/3672.jpg
+
+
+Avots: https://www.nato.int/docu/review/articles/2019/01/24/nato-ready-for-anything/index.html
+
+Attēlā: ISAF miera uzturēšanas operācija ar NATO sabiedroto un partnervalstu  spēku izvietošanu un karavīru skaitu Afganistānas teritorijā 2009. gadā. Latvija piedalījās ar 160 karavīriem.
+
+2015. gada janvārī NATO uzsāka Apņēmīga atbalsta misija (Resolute Support Mission – RSM), lai apmācītu, konsultētu un palīdzētu Afganistānas drošības spēkiem un iestādēm cīnīties pret terorismu un nodrošināt savas valsts drošību. Pēc tam, kad 2021. gada augustā tika pabeigta visu RSM spēku izvešana, misija tika pārtraukta 2021. gada septembra sākumā.
+
+3) Starptautiskās glābšanas operācijas, kuru mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana. Piemērām, TRITON.
+
+Vidusjūras vidieni visvairāk ietekmē migrācijas plūsmas, kas pieauga līdz milzīgiem apjomiem, 2014. gadā attīstoties kara darbībai Sīrijā un Lībijā.
+
+Lai gan operācijas Triton, kuru Frontex – Eiropas Robežu un krasta apsardzes aģentūra (European Border and Coast Guard Agency), – uzsāka 2014. gada novembrī, galvenais mērķis ir robežkontrole un uzraudzība, aģentūras prioritāte joprojām ir meklēšana un glābšana. Kopš operācijas sākuma Itālijas krasta apsardze regulāri ir novirzījusi Frontex kuģus un lidmašīnas, lai palīdzētu nelaimē nonākušiem migrantiem. Aģentūras norīkotie darbinieki arī atbalsta Itālijas varas iestādes ienākošo migrantu reģistrācijā. Aptauju veicēji vāc izlūkdatus par cilvēku kontrabandas tīkliem, kas darbojas Lībijā un citās Āfrikas valstīs kontrabandas maršrutos.
+
+TRITON darbības joma ir paplašināta, iekļaujot citus pārrobežu noziedzības veidus. Neskaitot daudzos cilvēku kontrabandistu arestus, aģentūras izvietotie līdzekļi arvien vairāk palīdz atklāt narkotiku kontrabandu, nelegālu zveju un jūras piesārņojumu. Kopumā operācijā TRITON piedalās 26 ES valstis, ieskaitot Latviju, izvietojot tehnisko aprīkojumu vai robežsargus.
+
+4) starptautiskās humānās palīdzības operācijas, kuru mērķis ir sniegt palīdzību civiliedzīvotājiem, kurus skāris karš vai citi ārkārtēji notikumi. Piemērām, Humanitārā operācija Bosnijā, 1992.-1995. g.
+
+Brutālo un sistemātisko etniskās tīrīšanas kampaņu rezultātā, kas turpinājās visā kara laikā, vairāk nekā puse Bosnijas iedzīvotāju tika izraidīti no savam mājām. Simtiem tūkstošu cilvēku kļuva atkarīgi no humānās palīdzības, īpaši aplenktie Sarajevas, Srebrenicas, Zepas, Gorazdes un Bihacas anklāvi. 1995. gada decembrī, no aptuveni 4,3 miljonu iedzīvotāju skaita pirms kara, 900 000 cilvēku bija kļuvuši par bēgļiem kaimiņvalstīs un Rietumeiropā, savukārt vēl 1,3 miljoni bija kļuvuši iekšēji pārvietoti. Nespējot politiski vienoties par veidiem, kā izbeigt konfliktu, starptautiskā sabiedrība galvenokārt koncentrējās uz UNHCR (ANO apvienotais loģistikas centrs) vadīto humānās palīdzības operāciju. Laikā no 1992. līdz 1995. gadam, darbojoties ārkārtīgi sarežģītos apstākļos, UNHCR izdevās piegādāt aptuveni 950 000 tonnas humānās palīdzības aptuveni 2,7 miljoniem palīdzības saņēmēju Bosnijā. Tā kļuva par visu laiku lielāko UNHCR humānās palīdzības operāciju.
+
+5) Starptautiskās militārās operācijas, kuru mērķis ir īstenot Apvienoto Nāciju Organizācijas dalībvalstu tiesības uz kolektīvo pašaizsardzību, kā noteikts Apvienoto Nāciju Organizācijas Statūtu 51. pantā. Piemērām, OCEAN SHIELD.
+
+Operācija Okeāna vairogs (OCEAN SHIELD) bija NATO ieguldījums starptautiskajos centienos apkarot pirātismu pie Āfrikas raga, kas norisinājās no 2009. gada 17. augusta līdz 2016. gada 15. decembrim. NATO jūras spēki darbojās pie Āfrikas raga, tostarp Adenas līcī un Indijas okeāna rietumu daļā līdz pat Hormuza šaurumam, kura teritorija ir lielāka par 2 miljoniem kvadrātjūdžu jeb aptuveni Rietumeiropas lielumā (skat. karti). Ar Somālijas varas iestāžu piekrišanu NATO kuģi varēja ienākt arī Somālijas teritoriālajos ūdeņos. Operācijas Somālijas zemē neietilpa NATO mandātā.
+
+NATO uzdevums bija nodrošināt jūras spēku eskortu reģionā, vienlaikus palielinot sadarbību ar citām pirātisma apkarošanas operācijām, kas tika veiktas, pilnībā ievērojot attiecīgās ANO Drošības padomes rezolūcijas.
+
+#### IMG: #@@host#/pluginfile.php/643056/mod_book/chapter/2041/Area%20of%20Operation_large.png
+
+Avots: https://mc.nato.int/missions/operation-ocean-shield
+
+Šobrīd Latvijas bruņoto spēku karavīri pilda dienesta pienākumus šādās starptautiskajās militārajās operācijās un misijās: 
+
+EUNAVFOR MED IRINI – Eiropas Savienības Jūras spēku Vidusjūras operācija IRINI (The European Union Naval Force Mediterranean Operation IRINI). Eiropas Savienības Ārlietu padome nolēma uzsākt jaunu Kopējās drošības un aizsardzības politikas operāciju Vidusjūrā, kuras mērķis ir īstenot Apvienoto Nāciju Organizācijas Drošības padomes rezolūcijas par ieroču embargo Lībijai. Tādējādi operācija EUNAVFOR MED IRINI (IRINI grieķu valodā — "miers") tika uzsākta 2020. gada 31. martā un pagarināta līdz 2023. gada 31. martam. Tās galvenais uzdevums ir īstenot ANO ieroču embargo Lībijai, izmantojot gaisa, satelītu un jūras spēku aktīvus. Misija ir pilnvarota veikt kuģu pārbaudes atklātā jūrā pie Lībijas krastiem, par kuriem ir aizdomas, ka tie pārvadā ieročus vai saistītus materiālus uz Lībiju un no tās.
+
+NMI – NATO misija Irākā (NATO Mission Iraq) NMI ir ar kauju nesaistīta apmācības un padomdevēja misija, kuras pamatā ir partnerība un iekļaušana, kā arī pilnīga Irākas suverenitātes, neatkarības un teritoriālās integritātes ievērošana. NMI ir jauna izpausme ilgstošām attiecībām starp aliansi un Irāku, nodrošinot zināšanas un labāko praksi drošības/aizsardzības sektora reformā, institūciju veidošanā un apmācībā un izglītošanā, pārņemot pieredzi no alianses un tās partneriem.
+
+KFOR – NATO operācija Kosovā. Saskaņā ar 1999. gada 10. jūnijā pieņemto ANO Drošības padomes Rezolūciju 1244, 12. jūnijā Kosovā ienāca pirmie NATO vadīto Kosovas spēku jeb KFOR elementi. Līdz 20. jūnijam Serbijas spēku izvešana bija pabeigta.
+
+Sākotnēji KFOR sastāvā bija aptuveni 50 000 vīriešu un sieviešu no NATO dalībvalstīm, partnervalstīm un valstīm, kas nav NATO sastāvā, un tie bija vienotā vadībā un kontrolē. Uzlabotā drošības vide ļāva NATO samazināt KFOR karavīru skaitu šodien līdz aptuveni 3500. Pašlaik KFOR piedalās 28 valstis, Kosovas, kas pasludināja neatkarību 2008. gadā, ziemeļos vēl arvien pastāv serbu minoritātes, kuru atbalsta Serbija un Kosovas valdības konfrontācija.
+
+Globālā koalīcija pret ISIS – Islāma valsti vai Daesh. Islāma valsts, kas pazīstama arī kā Irākas un Sīrijas Islāma valsts un ar tās arābu akronīmu Daesh, ir kaujiniecisks, teroristisks islāmistu grupējums, kurš uz neilgu laiku bija iekarojis ievērojamas teritorijas Irākā un Sīrijā, apdraudot gan mieru un drošību reģionā, gan veicinot un īstenojot terora aktus ārpus tā, ES valstis ieskaitot. Globālā koalīcija pret Daesh tika izveidota 2014. gada septembrī, un tā ir unikāla ar savu dalību, darbības jomu un saistībām. Koalīcijas 85 dalībvalstis  ir apņēmušās cīnīties pret Daesh visās jomās, izjaukt tās tīklus un cīnīties pret tās globālajām ambīcijām. Papildus militārajai kampaņai Irākā un Sīrijā koalīcija ir apņēmusies: nepieļaut Daesh finansējumu un graut tās ekonomisko infrastruktūru, novērst ārvalstu teroristu kaujinieku plūsmu pāri robežām, atbalstīt stabilizāciju un būtisku sabiedrisko pakalpojumu atjaunošanu apgabalos, kas atbrīvoti no Daesh un cīnās pret grupas propagandu.
+
+ANO pamiera uzraudzības organizācijas misija – UN Truce Supersvision Organization, UNTSO, Izraēla. UNTSO ir pirmā ANO izveidotā miera uzturēšanas misija, kas tika izveidota, pamatojoties uz 1948. gada 29. maijā ANO Drošības padomes rezolūciju, jo pēc Izraēlas valsts proklamēšanas sākās tās sadursmes ar arābu kaimīņvalstīm. UNTSO militārie novērotāji paliek Tuvajos Austrumos, lai uzraudzītu pamieru, uzraudzītu pamiera līgumus, novērstu atsevišķu incidentu saasināšanos un palīdzētu citām Apvienoto Nāciju Organizācijas miera uzturēšanas operācijām reģionā.
+
+SENTINEL – operācija Hormuzas šaurumā, ko vada Starptautiskā jūras drošības atjaunošanas iniciatīva. Operācijas noteiktais mērķis ir visos stratēģiskajos ūdeņos veicināt jūras stabilitāti un starptautiskajai tirdzniecībai un drošībai nodrošināt drošu pārvietošanos un mazināt spriedzi starptautiskajos ūdeņos visā Arābijas (Persijas) līcī, Hormuzas šaurumā, Bābelmandeba šaurumā un Omānas līcī. Apmēram 21 % pasaules jēlnaftas iet cauri Hormuzas šaurumam. Operācija SENTINEL tika izveidota, reaģējot uz vairākiem uzbrukumiem un iejaukšanos kuģošanā Persijas līča reģionā 2019. gada vasarā, kas tika plaši attiecināti uz Irānas Islāma revolūcijas gvardes korpusa floti (IRGCN).
+
+#### IMG: #@@host#/pluginfile.php/643056/mod_book/chapter/2041/Gulf%20and%20Straits%202015%20CIA%20Map.png
+
+Avots: https://iranprimer.usip.org/blog/2020/sep/01/operation-sentinel-protects-gulf-shipping
+
+## Brīvprātīgais darbs ANO sistēmā vai citā organizācijā
+
+UNV – Apvienoto Nāciju Organizācijas Brīvprātīgo programma (UN Volunteers) tika izveidota 1970. gadā, lai kalpotu kā operatīvais partneris starptautiskajā attīstībā. ANO Attīstības programmas pārvaldītais UNV ir brīvprātīgā darba kontaktpunkts ANO sistēmā. Tā sniedz īpašu ieguldījumu efektīvā attīstībā, aizstāvot brīvprātīgā darba lomu un ieguvumus, integrējot pilsonisko iesaistīšanos attīstības programmās un palīdzot mobilizēt brīvprātīgos visā pasaulē.
+
+UNV brīvprātīgie atbalsta ilgtspējīgu cilvēka attīstību visā pasaulē tādās galvenajās jomās kā nabadzības samazināšana, demokrātiska pārvaldība, enerģētika, vide, krīžu novēršana un atveseļošanās un veselība. UNV palīdz izstrādāt nacionālās brīvprātīgo programmas, uzsākt radošas un novatoriskas brīvprātīgo aktivitātes un attīstīt brīvprātīgā darba pētniecības spējas jaunattīstības valstīs.
+
+Kopš 1971. gada UNV ir mobilizējis aptuveni 40 000 vidēja līmeņa profesionāļu, lai kalpotu miera un attīstības mērķiem, lielākā daļa (76 %) UNV brīvprātīgo ir jaunattīstības valstu pilsoņi.
+
+Apvienoto Nāciju Organizācijas Brīvprātīgo programmu (UNV) izveidoja ANO Ģenerālā asambleja 1970. gadā un to pārvalda UNDP. Brīvprātības pamatā ir brīva griba, apņemšanās, iesaistīšanās un solidaritāte. Brīvprātīgais darbs kalpo miera un attīstības mērķim, uzlabojot līdzdalības iespējas visiem, īpaši sievietēm. Kopš savas darbības sākuma UNV ir atbalstījusi ANO sistēmu, mobilizējot brīvprātīgos mieram un attīstībai visā pasaulē. ANO strādā  vairāk nekā 6500 ANO brīvprātīgo. ANO Ģenerālā asambleja 2015. gada decembra rezolūcijā 70/129 atkārtoti apstiprināja, ka brīvprātīgais darbs var būt spēcīgs līdzeklis Ilgtspējīgas attīstības programmas 2030. gada īstenošanai.
+
+UNICEF – ANO Bērnu Fonds strādā ar brīvprātīgajiem, galvenokārt, caur Apvienoto Nāciju Organizācijas Brīvprātīgo (UNV) programmu. UNV programma pieņem darbā un norīko brīvprātīgos darbā visā Apvienoto Nāciju Organizācijas sistēmā, tostarp UNICEF. UNICEF nepieņem darbā UNV tieši, bet gan ar UNV programmas starpniecību. Brīvprātīgie, kā likums, darbojas jaunattīstības valstīs, kur ir nepieciešams atbalsts pilsoniskās sabiedrības un demokrātijas institūtu veidošanā.
+
+Ja jums ir bakalaura grāds, vairāku gadu darba pieredze un jūs interesē brīvprātīgā darba iespējas visā pasaulē, jums var būt tiesības kļūt par UNV. ANO brīvprātīgie nesaņem atalgojumu parastā izpratnē. Tiek maksāts ikmēneša brīvprātīgā dzīves pabalsts (VLA), kas ietver ikmēneša iztikas pabalstu (MLA), kas paredzēts, lai veicinātu drošu un atbilstošu izmitināšanu, transportu un pieticīgu dzīves līmeni, kā arī ģimenes pabalsts, pārcelšanās pabalsts un sociālas garantijas.
+
+Brīvprātīgais darbs ANO izpratnē ir darbs pēc pārliecības, vadoties pēc ANO deklarētam vērtībām, grūtos apstākļos valstīs vai jomās, kur nepieciešams atbalsts, jo ar pašu spēkiem nav iespējams tikt uz priekšu.
+
+Bez UNV pastāv arī vesela virkne organizāciju, kurās uz līdzīgiem principiem piesaista brīvprātīgos.
+
+Peace Corps  –  Miera korpuss. Miera korpusa tīkls sadarbojas ar vietējām kopienām, lai atgūtos no COVID-19 izraisītajām veselības un attīstības neveiksmēm, pielāgotos un veidotu noturību pret klimata pārmaiņām, kā arī nodrošinātu vadības attīstību un citas iespējas jaunajai paaudzei. Cilvēku savstarpējā diplomātija, kas ir galvenā Miera korpusa darbā, palīdz nodrošināt nākamās paaudzes Amerikas un pasaules līderus ar pielāgošanās spēju un prasmēm, kas nepieciešamas, lai veidotu kopīgo nākotni.
+
+International Volunteer HQ Limited – Jaunzēlandē bāzēta brīvprātīgo kompānija, kuru 2007. gadā dibināja Daniels Džons Redklifs. 2015. gada septembrī tā ir nosūtījusi 50 000 brīvprātīgo uz ārzemēm 30 valstīs 200 dažādos projektos.
+
+Love Volunteers – organizē uzticamas un drošas brīvprātīgo programmas Āfrikā, kas vērsta uz jēgpilnu ilgtermiņa atbalstu vietējām kopienām kritiskās jomās.
+
+Voluntary Service Overseas – bezpeļņas starptautiska attīstības organizācija ar vīziju par "godīgu pasauli ikvienam" un misiju "radīt ilgstošas ​​pārmaiņas, izmantojot brīvprātīgo darbu". VSO nodrošina attīstības ietekmi, izmantojot jauktu brīvprātīgo modeli, kas sastāv no starptautiskiem, valsts un kopienas brīvprātīgajiem, kuri strādā kopā, lai izstrādātu sistēmas un nosacījumus pozitīvām sociālajām pārmaiņām. 2018.–2019. gadā VSO strādāja 23 Āfrikas un Āzijas valstīs. VSO pašlaik strādā šādās programmas pamatjomās: iekļaujoša izglītība, veselība, iztikas līdzekļi.
+
+Médecins Sans Frontières, pazīstams arī kā Ārsti bez robežām – franču izcelsmes humanitārās medicīnas nevalstiska organizācija vai labdarības organizācija, kas pazīstama ar saviem projektiem konflikta zonās un valstīs, kuras skarušās endēmiskas slimības, sniedzot profesionālu palīdzību veselības aprūpes organizēšanā un sniegšanā.
