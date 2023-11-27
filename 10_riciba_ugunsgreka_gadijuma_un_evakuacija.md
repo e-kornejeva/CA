@@ -146,3 +146,32 @@ Droša pulcēšanās vieta:
 #### IMG: #@@host#/pluginfile.php/641738/mod_book/chapter/1957/image.png
 
 #### IMG: #@@host#/pluginfile.php/641738/mod_book/chapter/1957/image%20%281%29.png
+
+
+# 10. tests
+
+Ugunsgrēka preventīvie pasākumi:
+ - Dūmu detektoru izmantošana
+ - Ugunsdzēsības signalizācijas sistēmas izbūve
+
+
+Pareiza rīcība ugunsgrēka gadījumā darba vietā:
+ - 112 var zvanīt ikviens, kurš pamana aizdegšanos
+ - Uzsākt evakuāciju
+ - Atslēgt elektroenerģiju
+ - Atslēgt ventilāciju
+ - Sagaidīt ugunsdzēsējus uz ielas
+
+Kā izskatās evakuācijas zīmes: Baltas bultas uz zaļā fona
+
+Kas nepieciešams, lai notiktu degšana: Temperatūra, skābeklis, materiāls
+
+Kādi ir reaģēšanas pasākumi ugunsgrēka gadījumā?
+ - 112
+ - Ugunsdzēšamā aparāta izmantošana
+ - Skābekļa atņemšana ar pulveri
+ - Atdzesēšana ar ūdeni
+ - Atdzesēšana ar CO2
+ - Skābekļa atņemšana ar nedegošu segu
+
+
