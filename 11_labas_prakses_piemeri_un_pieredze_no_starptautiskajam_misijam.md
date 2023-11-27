@@ -332,12 +332,13 @@ Kas raksturo valsts gatavību ārkārtas situācijām: Tehniskais nodrošinājum
 
 Notikums, kas izraisījis cilvēku upurus un apdraud cilvēku dzīvību vai veselību, nodarījis kaitējumu vai radījis apdraudējumu cilvēkiem, videi vai īpašumam, kā arī radījis vai rada būtiskus materiālos un finansiālos zaudējumus un pārsniedz atbildīgo valsts un pašvaldības institūciju ikdienas spējas novērst notikuma postošos apstākļus, ir: Katastrofa
 
-Kura no ministrijām uzņemsies vadību epidēmijas gadījumā: Veselības ministrija
+Veselības ministrija uzņemsies vadību epidēmijas gadījumā.
 
-Kura no ministrijām vadīs ar ķīmiskās vielas noplūdi saistīto katastrofu:VARAM
+VARAM vadīs ar ķīmiskās vielas noplūdi saistīto katastrofu.
 
-Kura no ministrijām vadīs ar masveida dzīvnieku saslimšanu saistīto katastrofu: Zemkopības ministrija
+Zemkopības ministrija vadīs ar masveida dzīvnieku saslimšanu saistīto katastrofu.
 
-Kura no ministrijām vadīs katastrofu, kas saistīta ar militāro infrastruktūru: Aizsardzības ministrija
+Aizsardzības ministrija vadīs katastrofu, kas saistīta ar militāro infrastruktūru.
+
 
 
