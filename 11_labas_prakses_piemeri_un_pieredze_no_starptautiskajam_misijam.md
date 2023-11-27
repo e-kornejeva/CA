@@ -117,3 +117,97 @@ NATO izveidotais gaisa tilts – vairāk nekā 160 lidojumi, pārvestas 3500 ton
 NATO gaisa tiltu izmantoja WFP (Pasaules pārtikas programma – starptautiska organizācija Apvienoto Nāciju Organizācijas sastāvā), UNJLC (Apvienoto Nāciju Organizācijas apvienotais loģistikas centrs) un UN-HCR (Apvienoto Nāciju Organizācijas Augstais komisārs bēgļu jautājumos).
 
 Plūdi Balkānos, 2014. gada maijs
+
+
+
+#### IMG: #@@host#/pluginfile.php/643056/mod_book/chapter/2040/_74942235_022315006-1.jpg?time=1676973397875
+
+
+Avots: https://www.bbc.com/news/world-europe-27465175
+
+#### IMG: #@@host#/pluginfile.php/643056/mod_book/chapter/2040/_74942253_022301953-1.jpg
+
+Avots: https://www.bbc.com/news/world-europe-27465175
+
+#### IMG: #@@host#/pluginfile.php/643056/mod_book/chapter/2040/_74942229_022319153-1.jpg
+
+Avots: https://www.bbc.com/news/world-europe-27465175
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Balkan_floods_May_2014.svg/300px-Balkan_floods_May_2014.svg.png
+
+
+Avots: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Balkan_floods_May_2014.svg/300px-Balkan_floods_May_2014.svg.png
+
+Dažu dienu laikā Balkānos nolija trīs mēnešu lietus norma, izraisot vislielākos plūdus kopš nokrišņu mērījumu sākuma pirms 120 gadiem. Vislielākie postījumi bija Serbijā un Bosnijā un Hercegovinā. Bosnijas ziemeļaustrumu daļa bija īpaši smagi skarta, jo mājas, ceļi un dzelzceļa līnijas bija zem ūdens. Līdz 20. maijam plūdos bija miruši vismaz 62 cilvēki, un simtiem tūkstoši bija spiesti pamest savas mājas. Amatpersonas vēstīja, ka vissmagāk skartajos rajonos dzīvo aptuveni miljons cilvēku – vairāk nekā ceturtā daļa Bosnijas iedzīvotāju. Plūdi un zemes nogruvumi bija radījuši bažas par lielo skaitu sauszemes mīnu, kas tika uzstādītas Bosnijas kara laikā no 1992. līdz 1995. gadam un bija palikušas rūpīgi marķētos mīnu laukos.
+
+Serbija un Bosnija aicināja starptautisku palīdzību, lai glābtu cilvēkus no appludinātajām teritorijām.
+
+Izveidojās liela starptautiska humānās palīdzības operācija, kurā glābšanas helikopteri no Eiropas Savienības valstīm, ASV un Krievijas evakuēja cilvēkus no plūdu skartajām teritorijām. ES Civilās aizsardzības mehānisma ietvaros tika sniegta daudzveidīga humānā palīdzība plūdos cietušajiem. Latvijas Ugunsdzēsības, glābšanas un meklēšanas dienesta komanda piedalījās ar speciālo ugunsdzēsēju mašīnu un 2 ūdens sūkņiem.
+
+Ebolas uzliesmojums Rietumāfrikā, 2014. gads
+
+
+#### IMG: https://webassets.oxfamamerica.org/media/images/Ebola-map-Oxf.2e16d0ba.fill-1180x738-c100.jpegquality-60.png
+
+
+
+Avots: https://www.oxfamamerica.org/explore/stories/as-the-ebola-outbreak-spreads-heres-how-you-can-make-a-difference/
+
+Ebolas epidēmijas Rietumāfrikā sākās 2014. gada februārī, un tajā laikā nebija vakcīnas. Pasaules Veselības organizācija (PVO) 8. augustā paziņoja, ka Ebolas vīrusa uzliesmojums ir starptautiskās sabiedrības veselības ārkārtas stāvoklis, nepieciešama koordinēta starptautiska reakcija. 2014. gada augustā PVO publicēja ceļvedi par pasākumiem, kas jāveic, lai epidēmiju kontrolētu un novērstu turpmāku slimības pārnešanu Rietumāfrikā. Koordinētā starptautiskā reakcija strādāja, lai īstenotu šo plānu.
+
+#### IMG: #@@host#/pluginfile.php/643056/mod_book/chapter/2040/EbolaCycle.png
+
+
+
+Avots: https://upload.wikimedia.org/wikipedia/commons/f/fc/EbolaCycle.png
+
+Attēlā: Ebolas vīrusa aprite dabā: parastā uzturēšanās vide – sikspārņos, tālāk no tiem nonākot savvaļas dzīvniekos, no dzīvniekiem – cilvēkos. Tālāk seko izplatība cilvēkos, kas arī nosaka strauju slimības gadījumu izaugsmi.
+
+Ebola izplatās tiešā saskarē (caur bojātu ādu vai neaizsargātām gļotādām) ar slima cilvēka asinīm vai ķermeņa šķidrumiem, piemēram, urīnu, siekalām, fekālijām, vemšanas masām un spermu. Tā izplatās arī saskarē ar piesārņotiem priekšmetiem (piemēram, šļircēm) vai inficētiem dzīvniekiem, piemēram, apstrādājot gaļu.
+
+Ebolas vīrusa pazīme ir drudzis, kas pārsniedz 38,6 °C, un ir šādi papildu simptomi:
+
+ - smagas galvassāpes;
+ - muskuļu sāpes;
+ - vemšana;
+ - caureja;
+ - sāpes vēderā;
+ - neizskaidrojama asiņošana (asiņošana vai zilumi).
+ 
+ 
+Inkubācijas periods no saskares līdz pazīmju vai simptomu parādīšanās brīdim svārstās no 2 līdz 21 dienai, vidēji no 8 līdz 10 dienām. Persona ar Ebolas vīrusu nav lipīga, līdz parādās simptomi.
+
+Līdz 5. septembrim kopumā tika ziņots par 3967 iespējamiem un apstiprinātiem Ebolas saslimšanas gadījumiem un 2105 nāves gadījumiem – mirstība 50%. Inficēšanas tika vērota Gvinejā, Sjerraleonē, Libērijā, Nigērijā, Senegālā un Kongo Demokrātiskajā Republikā. Uz 25. augustu vairāk nekā 240 veselības aprūpes darbinieku bija inficēti, viņu vidū vairāk nekā 120 nāves gadījumu. Inficēto skaits auga strauji, epidēmija izplatījās, tika konstatēti atsevišķi saslimšanas gadījumi ASV un Eiropā. Epidēmijas ierobežošanai traucēja sociālie aspekti mazattīstītajās Rietumāfrikas valstīs:
+
+pārslogotas sabiedrības veselības un veselības aprūpes sistēmas;
+neapmaksāti veselības aprūpes darbinieki;
+nepietiekams ārstniecības centru/gultu skaits;
+nepietiekams individuālo aizsarglīdzekļu daudzums;
+nepietiekams medicīniskais aprīkojums.
+
+Lai apturētu epidēmijas izplatību, PVO noteica galvenos starptautiskās misijas rīcības pamatprincipus, kuru pamatā ir uzdevums pārtraukt infekcijas pārnešanu no cilvēka uz cilvēku:
+
+ - gadījuma identifikācija;
+ - kontaktpersonu izsekošana;
+ - infekcijas kontrole;
+ - riska faktoru identificēšana un mazināšana;
+ - veselības aprūpes darbinieku aizsardzība;
+ - apbedīšanas un pārapbedīšanas droša prakse;
+ - izplatīšanos uz citām valstīm nepieļaušana;
+ - sabiedrības izglītība;
+ - sabiedrības izglītošana – skrejlapas, veselības plakāti, brošūras, radio klipi, video vietējās valodās.
+ 
+ 
+Starptautiskā misijā PVO vadībā pakāpeniski ierobežoja epidēmijas izplatību un panāca tās izbeigšanos. 2016. gada 9. jūnijā Libērija tika pasludināta par brīvu no Ebolas vīrusa, tanī laikā arī citviet Rietumāfrikas valstīs tika panākta atbrīvošanās no Ebolas epidēmijas briesmām.
+
+Starptautiskās misijas dalībnieki:
+
+ - ANO un tās aģentūras;
+ - PVO un tās aģentūras;
+ - ES civilās aizsardzības mehānisma spējas, piemēram, mobilā laboratorija;
+ - ASV Slimību kontroles un profilakses centrs;
+ - USAID – Amerikas Savienoto Valstu Starptautiskās attīstības aģentūra;
+ - UNICEF – ANO Bērnu fonds;
+ - NVO “Ārsti bez robežām”;
+ - Apvienotās Karalistes, Kanādas un citu valstu naudas ziedojumi.
