@@ -166,7 +166,7 @@ Kā izskatās evakuācijas zīmes: Baltas bultas uz zaļā fona
 
 Kas nepieciešams, lai notiktu degšana: Temperatūra, skābeklis, materiāls
 
-Kādi ir reaģēšanas pasākumi ugunsgrēka gadījumā?
+Kādi ir reaģēšanas pasākumi ugunsgrēka gadījumā:
  - 112
  - Ugunsdzēšamā aparāta izmantošana
  - Skābekļa atņemšana ar pulveri
