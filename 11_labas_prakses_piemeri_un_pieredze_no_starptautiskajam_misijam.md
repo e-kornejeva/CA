@@ -340,5 +340,13 @@ Zemkopības ministrija vadīs ar masveida dzīvnieku saslimšanu saistīto katas
 
 Aizsardzības ministrija vadīs katastrofu, kas saistīta ar militāro infrastruktūru.
 
+Ekonomikas ministrija vadīs katastrofu, ko izraisījusi avārija HES.
 
+Iekšlietu ministrija ir VUGD padotības iestāde.
+
+Valsts vides dienests likvidēs bīstamās ķīmiskās vielas noplūdes sekas jūras krastā.
+
+AS Sadales tīkls likvidēs elektrotīklu bojājumus.
+
+Valsts augu aizsardzības dienests likvidēs epifitotijas sekas.
 
