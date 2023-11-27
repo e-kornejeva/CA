@@ -37,3 +37,25 @@ Gamma starojumu mazina:
 - Mūra ēka par 70%;
 - Vairākstāvu mūra ēkas pagrabstāvs par 95%.
 
+
+# 9. tests
+
+Akūts toksiskums piktogramma: [Akūts toksiskums](https://edu.lu.lv/draftfile.php/630047/user/draft/322351819/image%20%281%29.png)
+
+H riska frāze apzīmē: Bīstamību
+
+REACH regulē ķīmisko vielu reģistrēšanu, marķēšanu, risku apzināšanu un pārvaldīšanu.
+
+Degšana process - ķīmiska pārvērtība, kuras gaitā izdalās daudz siltuma un parasti veidojas arī liesma.
+
+Oksidējošs piktogramma: [Oksidējošs piktogramma](https://edu.lu.lv/draftfile.php/630047/user/draft/128438117/image%20%281%29.png)
+
+PBO iedala  A, B, C kategorijās vai klasēs.
+
+Ko apzīmē P riska frāze:
+ - Drošas uzglabāšanas prasības
+ - Drošības prasības
+
+Iegādājos flīžu tīrīšanas līdzekli un pēc darba ar to, sāka sūrstēt roka. Kur varu iegūt informāciju par līdzekļa sastāvu un rīcību šajā situācijā? Atbilde: DDL
+
+Intoksikācija: Skābekļa trūkums organismā
