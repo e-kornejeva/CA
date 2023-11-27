@@ -150,3 +150,127 @@ Ja liesmas nav iespējams apdzēst:
 - durvju noblīvēšana;
 - lēna loga atvēršana;
 - saukšana palīgā.
+
+## Rīcība vētras laikā
+
+Vētras laikā iespējami elektropārvades un sakaru līniju bojājumi, ūdens padeves traucējumi, koku nogāšanās uz ceļu braucamās daļas, ēku un būvju konstrukciju sagrūšana, jumtu noraušana, ūdens līmeņa strauja paaugstināšanās.
+
+Bez īpašas nepieciešamības centieties neiet ārpus telpām, atturiet no pastaigām bērnus, vecus cilvēkus un invalīdus.
+
+Esiet gatavi elektroenerģijas padeves pārtraukumiem. Savlaicīgi sagatavojiet kabatas lukturus un ievietojiet baterijas radiouztvērējos.
+
+Aizveriet logus, durvis, bēniņu lūkas. Daudzdzīvokļu mājās nostipriniet priekšmetus uz balkoniem.
+
+Lauku mājās nostipriniet saimniecības priekšmetus, nevediet laukā mājlopus.
+
+Telpās neuzturieties logu tuvumā. Blakus esošo koku zari un citi priekšmeti vētras laikā var izsist logu rūtis un izraisīt traumas.
+
+Ja vētra pārsteigusi ārpus telpām, neuzturieties un nenovietojiet transporta līdzekļus zem vientuļiem kokiem, celtniecības sastatnēm, reklāmas stendiem, elektropārvades līnijām.
+
+Nelietojiet lietussargus, tie apgrūtina redzamību, pastiprināti uztver vēja brāzmas un var savainot citus cilvēkus.
+
+Atrodoties klajā laukā sameklējiet vietu kur patverties, piemēram, grāvi vai ieplaku. Ja tādas nav, tad stipras vēja brāzmas gadījumā nogulieties zemē.
+
+Atrodoties uz ūdens mēģiniet nokļūt krastā. Vislabāk, ja laivu var izvilkt no ūdens, klajā vietā apgāzt un nogulties zem tās.
+
+Atrodoties mežā, ieejiet dziļāk biezoknī. Biezoknī koki ir vairāk aizsargāti no vēja brāzmām un pastāv mazāks risks tikt savainotam zem lūstošiem kokiem vai zariem.
+
+Nešķērsojiet tiltus. Nepieciešamības gadījumā var zem tiem paslēpties un nogaidīt līdz pāriet stiprās vēja brāzmas.
+
+Ja ir nogāzušies koki, pārrauti vadi, notikusi avārija vai cits negadījums, zvaniet Valsts ugunsdzēsības un glābšanas dienestam pa tālruņa numuru 112 vai 01.
+
+Lai savlaicīgi saņemtu papildus informāciju, atstājiet ieslēgtu televizoru vai radiouztvērēju
+
+## Rīcība lietusgāžu laikā
+
+Rīcība lietusgāžu laikā
+
+- atrodoties auto – apzināt vai pievērst uzmanību tām vietām, kuras applūst – zem viaduktiem, zemākās pilsētas vietas (zīmes «Uzmanību! Stipra lietus laikā brauktuve applūdināta!»);
+- Pilsētvidē applūst ielu posmi (kolektoru sistēmas netiek galā);
+- Izvairīties no applūstošo ceļu šķērsošanas (var tikt izskalotas ietvju vai ielu pamatnes);
+- Jāpārliecinās par drošību (vasarā vētras laikā var tikt bojāti vai appludināti elektrotīkli) u.c. 
+
+## Rīcība pērkona (zibens) laikā
+
+Rīcība pērkona (zibens) laikā
+- Neiet ārpus telpām;
+- Izvairīties no caurvēja telpās (var iekļūt lodveida zibens);
+- Nekurināt kamīnu/krāsni (pieaug risks, ka ēkā var iespert zibens);
+- Neuzturieties pie elektroinstalācijām, antenām, logiem, durvīm, ūdens krāniem un radiatoriem, kā arī citiem metāla priekšmetiem;
+- Atvienot radio un TV no elektriskā tīkla un neizmantot elektrotehniku;
+- Nepalikt atklātās augstienēs;
+- Neslēpties zem augstiem, atsevišķi augošiem kokiem;
+- Neatrasties uz ezera vai citas ūdenskrātuves.
+
+## Stipra snigšana un aukstums
+
+gaisa t° < 0
+- Var izraisīt hipotermiju (drebuļi, koordinācijas traucējumi, palēnināta sirdsdarbība, paplašinātas acu zīlītes, ķermeņa refleksi, samaņas zudums u.c.), var veidoties apsaldējumi;
+- Bez īpašas vajadzības neizejiet no mājas;
+- Sagatavojieties elektroenerģijas padeves traucējumiem;
+- Sekot https://videscentrs.lvgmc.lv/ vai https://bridinajumi.meteo.lv/ brīdinājumiem;
+- Informēt 112 vai pašvaldību, ja esat zaudējis pajumti vai ilgstoši atrodaties bez elektrības un siltuma;
+- Padomājiet par savu mājdzīvnieku drošību un vajadzībām.
+
+Apsaldēšanas sekas:
+parestēzija, ādas lobīšanās, ādas nieze, muskuļu spēka samazināšanās un paaugstināts jutīgums pret aukstuma iedarbību. Attēlā zemāk var redzēt plaukstas virspusēju apsaldējumu:
+
+## Rīcība zemestrīces gadījumā
+
+iekštelpās:
+- slēpties ieteicams pie iekšējām sienām vai zem masīviem galdiem;
+- izvairieties atrasties stūros, kas izvietoti pie logiem, priekšmetiem, kas karājas, smagām mēbelēm, kamīniem un krāsnīm;
+atslēdziet plīti un gāzes padevi.
+
+ārpusē:
+- pārvietojieties uz atklātu teritoriju, prom no ēkām, elektrības līnijām un kokiem;
+- nemēģiniet izkļūt no ēkas zemestrīces laikā;
+- izvairieties no panikas;
+- Ja brauciet ar auto, apstājieties ielas pusē;
+- Izvairieties no apstāšanās uz un zem tiltiem un ceļu pārvadiem, zem elektrības līnijām, kokiem un lielām izkārtnēm;
+- Palieciet mašīnā!
+
+## Rīcība epidēmijas laikā
+
+Slimību un profilakses kontroles centrs -aktuālākā informācija par epidēmijām, vīrusiem.
+
+Piemēri - masalas vīrusa uzliesmojums Eiropā; Ebolas vīrusa aizsardzības pasākumi un simptomi; Covid-19.
+
+## Rīcība terora aktu gadījumā
+
+ESIET VĒRĪGS!
+- Jāpievērš uzmanība avārijas izejām un telpām, kurās iespējams patverties;
+- Jāturas tālāk no logiem un stiklotām durvīm, jo vairums upuru iet bojā no šķembām;
+- Pievērsiet uzmanību apkārt notiekošajam, jo ir iespējami vairāki atkārtoti sprādzieni vai uzbrukumi;
+- Ja izsludināta evakuācija, nekavējoties meklējiet drošu patvēruma vietu.
+
+PAMETIET APDRAUDĒJUMA VIETU
+- Jāņem vērā, ka pamest terora akta vietu vislielākās iespējas ir tieši pirmajās minūtēs;
+- Lai to izdarītu, jāizmanto tuvākās evakuācijas izejas;
+- Noteikti nevajag censties meklēt savas mantas – visu, kas nav rokās, jāatstāj, jo neviena lieta nekad nebūs vērtīgāka par Jūsu dzīvību.
+
+SLĒPIETIES
+- Ja nav iespējams aizbēgt, tad jānoslēpjas;
+- Jāizslēdz telefonam skaņa un jāpaļaujas uz pretterorisma pasākumos iesaistīto institūciju darbu;
+- Esot drošībā, ziņojiet par savu atrašanās vietu pretterorisma pasākumos iesaistītajām institūcijām.
+
+PALĪDZIET CITIEM IZGLĀBTIES
+- Ja jūs redzat, ka cilvēks līdzās ir šoka stāvoklī un nebēg, vai ir dezorientēts, palīdziet viņam izglābties;
+- Iespēju robežās sniedziet pirmo palīdzību.
+
+JA ESAT KĻUVIS PAR ĶĪLNIEKU
+- Gadījumā, ja terorists draud ar ieroci, jāpilda visas viņa prasības;
+- Klausieties un centieties iegaumēt, ko teroristi runā, kā viņi izskatās, taču tas jādara nemanāmi;
+- Taupiet spēkus, neveiciet straujas kustības, nepiesaistiet sev lieku uzmanību.
+
+PĒC APDRAUDĒJUMA
+- Kad esat nonācis drošā vietā, meklējiet palīdzību, ja tāda nepieciešama;
+- Piesakieties liecību sniegšanai;
+- Atcerieties, ka apšaude vai sprādzieni var atkārtoties, tāpēc nav ieteicams pievienoties lieliem pūļiem, kā arī izmantot sabiedrisko transportu. 
+
+PAR VISIEM AIZDOMĪGAJIEM GADĪJUMIEM ZIŅOT:
+- Valsts drošības dienestam – 67208964 (par aizdomīgām aktivitātēm);
+- Valsts policijai – 110 (par aizdomīgiem bez uzraudzības atstātiem priekšmetiem, saiņiem un citām mantām kritiskās infrastruktūras un cilvēku masveida pulcēšanās objektos, kā arī sabiedriskajā transportā).
+
+3. tests
+
