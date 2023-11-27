@@ -490,10 +490,8 @@ VARAM vadīs ar ķīmiskās vielas noplūdi saistīto katastrofu.
 
 Zemkopības ministrija vadīs ar masveida dzīvnieku saslimšanu saistīto katastrofu.
 
+Valsts augu aizsardzības dienests likvidēs epifitotijas sekas.
 
+Valsts vides dienests likvidēs bīstamās ķīmiskās vielas noplūdes sekas jūras krastā.
 
-Kurš dienests likvidēs bīstamās ķīmiskās vielas noplūdes sekas jūras krastā?
-
-Kurš dienests likvidēs elektrotīklu bojājumus?
-
-Kurš dienests likvidēs epifitotijas sekas?
+AS Sadales tīkls likvidēs elektrotīklu bojājumus.
