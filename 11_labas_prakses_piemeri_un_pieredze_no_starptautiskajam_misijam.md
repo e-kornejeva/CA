@@ -319,34 +319,32 @@ Voluntary Service Overseas – bezpeļņas starptautiska attīstības organizāc
 
 Médecins Sans Frontières, pazīstams arī kā Ārsti bez robežām – franču izcelsmes humanitārās medicīnas nevalstiska organizācija vai labdarības organizācija, kas pazīstama ar saviem projektiem konflikta zonās un valstīs, kuras skarušās endēmiskas slimības, sniedzot profesionālu palīdzību veselības aprūpes organizēšanā un sniegšanā.
 
-
 # 11. tests
 
-Civilās aizsardzības sistēmas uzdevumi valstī:Pārvaldīt katastrofas, sniegt palīdzību cietušajiem, samazināt katastrofu radīto kaitējumu, atbalstīt ar resursiem
 
-Ministru prezidents ir atbildīgs par Civilās aizsardzības sistēmu Latvijā.
+TRITON ir starptautiskā glābšanas operācija, kuras mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana.
 
-Kas ir Civilā aizsardzība: Zinātne par drošību
+Apvienoto Nāciju Organizācijas Brīvprātīgo programmas dalībnieki piedalās: Starptautiskās nabadzības mazināšanas, demokrātiskās pārvaldības ieviešanas, enerģētikas un vides attīstīšanas, krīžu novēršanas un veselības aprūpes pakalpojumu pieejamības veicināšanas programmās
 
-Kas raksturo valsts gatavību ārkārtas situācijām: Tehniskais nodrošinājums, valsts infrastruktūras attīstības līmenis, iedzīvotāju informēšana, valsts materiālās rezerves
+NATO nodrošināja gaisa tiltu ar dalībvalstu transporta lidmašīnām, nodrošinot humānās palīdzības kravu nepārtrauktu piegādi zemestrīcē cietušajiem ANO humānās palīdzības misijā pēc 2005. gada zemestrīces Kašmirā: 
 
-Notikums, kas izraisījis cilvēku upurus un apdraud cilvēku dzīvību vai veselību, nodarījis kaitējumu vai radījis apdraudējumu cilvēkiem, videi vai īpašumam, kā arī radījis vai rada būtiskus materiālos un finansiālos zaudējumus un pārsniedz atbildīgo valsts un pašvaldības institūciju ikdienas spējas novērst notikuma postošos apstākļus, ir: Katastrofa
+SFOR un KFOR ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos.
 
-Veselības ministrija uzņemsies vadību epidēmijas gadījumā.
+Lai apturētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu: Pārtraukt vīrusa pārnešanu no cilvēka uz cilvēku
 
-VARAM vadīs ar ķīmiskās vielas noplūdi saistīto katastrofu.
+ISAF un OCEAN SHIELD ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītajam personālam ir tiesības piedalīties karadarbībā.
 
-Zemkopības ministrija vadīs ar masveida dzīvnieku saslimšanu saistīto katastrofu.
+PVO noteiktie galvenie starptautiskās misijas Ebolas likvidēšanai rīcības pamatprincipi: Gadījumu identifikācija, kontaktpersonu izsekošana, izolēšana un aprūpe, stingra infekcijas kontroles ievērošana slimnīcās, sabiedrības izglītošana
 
-Aizsardzības ministrija vadīs katastrofu, kas saistīta ar militāro infrastruktūru.
+OCEAN SHIELD ir starptautiskā militārā operācija, kuras mērķis ir īstenot Apvienoto Nāciju Organizācijas dalībvalstu tiesības uz kolektīvo pašaizsardzību, kā noteikts Apvienoto Nāciju Organizācijas Statūtu 51. pantā.
 
-Ekonomikas ministrija vadīs katastrofu, ko izraisījusi avārija HES.
+Miera korpuss (Peace Corps) ir brīvprātīgo organizācija, kas ir pārmaiņu veidotāji, lai panāktu pozitīvas pārmaiņas, palīdzētu atgūties no attīstības un veselības neveiksmēm, atbalstītu jauno paaudzi
 
-Iekšlietu ministrija ir VUGD padotības iestāde.
-
-Valsts vides dienests likvidēs bīstamās ķīmiskās vielas noplūdes sekas jūras krastā.
-
-AS Sadales tīkls likvidēs elektrotīklu bojājumus.
-
-Valsts augu aizsardzības dienests likvidēs epifitotijas sekas.
-
+Faktori, kuri noteica Ebolas epidēmijas sākumu Rietumāfrikā, 2014. gada februārī:
+ - Nepietiekams individuālo aizsarglīdzekļu un medicīniskā aprīkojuma daudzums
+ 
+ - Tiešas saskarsmes iespējas ar savvaļas dzīvniekiem
+ 
+ - Neapmaksāti veselības aprūpes darbinieki, nepietiekams ārstniecības centru/gultu skaits, pārslogota sabiedrības veselības un veselības aprūpes sistēma
+ 
+ - Ebolas vīrusa aprite dabā šajā reģionā un tā valstu ievainojamība ar vāji attīstītām, pārslogotām sabiedrības veselības un veselības aprūpes sistēmām
