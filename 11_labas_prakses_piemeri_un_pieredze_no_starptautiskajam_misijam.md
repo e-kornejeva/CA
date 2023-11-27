@@ -97,9 +97,8 @@ Avots: https://timesofmalta.com/articles/view/massive-75-quake-kills-over-200-in
 
 Avots: https://www.rferl.org/a/pakistani-quake-survivors-food/25118654.html
 
-
-
 2005. gada 8. oktobrī 7,6 balles pēc Rihtera skalas spēcīga zemestrīce satricināja Kašmiras reģionu (strīdīgo teritoriju, ko daļēji kontrolē Pakistāna un Indija), kā arī Pakistānas, Indijas un Afganistānas daļas. Vairāk nekā 80 000 cilvēku gāja bojā zemestrīces rezultātā, bet aptuveni 4 miljoni cilvēku palika bez pajumtes. Pakistānas valdībai nebija resursu pašai tikt galā ar šīs katastrofas sekām un tā lūdza starptautisko humāno palīdzību.
+2006. 
 
 NATO un ANO humānās palīdzības misijas norise Kašmirā, Pakistānā:
 
