@@ -322,4 +322,22 @@ Médecins Sans Frontières, pazīstams arī kā Ārsti bez robežām – franču
 
 # 11. tests
 
+Civilās aizsardzības sistēmas uzdevumi valstī:Pārvaldīt katastrofas, sniegt palīdzību cietušajiem, samazināt katastrofu radīto kaitējumu, atbalstīt ar resursiem
+
+Ministru prezidents ir atbildīgs par Civilās aizsardzības sistēmu Latvijā.
+
+Kas ir Civilā aizsardzība: Zinātne par drošību
+
+Kas raksturo valsts gatavību ārkārtas situācijām: Tehniskais nodrošinājums, valsts infrastruktūras attīstības līmenis, iedzīvotāju informēšana, valsts materiālās rezerves
+
+Notikums, kas izraisījis cilvēku upurus un apdraud cilvēku dzīvību vai veselību, nodarījis kaitējumu vai radījis apdraudējumu cilvēkiem, videi vai īpašumam, kā arī radījis vai rada būtiskus materiālos un finansiālos zaudējumus un pārsniedz atbildīgo valsts un pašvaldības institūciju ikdienas spējas novērst notikuma postošos apstākļus, ir: Katastrofa
+
+Kura no ministrijām uzņemsies vadību epidēmijas gadījumā: Veselības ministrija
+
+Kura no ministrijām vadīs ar ķīmiskās vielas noplūdi saistīto katastrofu:VARAM
+
+Kura no ministrijām vadīs ar masveida dzīvnieku saslimšanu saistīto katastrofu: Zemkopības ministrija
+
+Kura no ministrijām vadīs katastrofu, kas saistīta ar militāro infrastruktūru: Aizsardzības ministrija
+
 
