@@ -128,6 +128,126 @@ Rīcības secība negadījuma vietā:
 
 
 
+Tūlītējie pasākumi:
+
+Pasākumu komplekss, kas jāveic pirms palīdzības uzsākšanas, lai saglabātu savu, apkārtējo un cietušā vai saslimušā dzīvību:
+ - briesmu avotu novēršana: noslēdziet gāzi, nodzēsiet liesmu, atslēdziet elektrību, uzstādiet brīdinājumu zīmes;
+ - dzīvības glābšanas pasākumi: apturiet asiņošanu, uzsākiet atdzīvināšanas pasākumus.
+ 
+Palīdzības izsaukšana:
+ - sauciet pēc citu palīdzības (“palīgā, sauciet ātros!”);
+ - ātro palīdzību lai sauc cits, ne Jūs;
+ - nekavējiet laiku, pievērsieties cietušajam, jo Jūs protat palīdzēt!
+
+
+Kur zvanīt:
+ - 113 – Ātrās palīdzības dispečerdienests;
+ - 112 – Glābšanas dienesta dispečerdienests;
+ - vai izmantot mobilo aplikāciju.
+
+
+Ziņo:
+ - kur noticis;
+ - kas noticis;
+ - cik cietušo vai slimo;
+ - nepārtrauciet sarunu, pirms to nav izdarījis dispečers.
+
+Kur noticis:
+ - pilsētā – pilsēta, adrese, mājas nr., dzīvokļa nr., durvju kods. (Rīga, Tallinas 29-21, durvju kods 12345).
+ - pagastā – novads, pagasts, apdzīvota vieta, mājas nosaukums. (Burtnieku novads, Burtnieku pagasts, Matīši, «Ozoliņi»).
+ - auto avārija – ceļa apzīmējums, kurā km (A4 vai P100 vai V25, aptuveni no 17. līdz 19. km).
+ - Mežā apmaldījies vai kļuva slikti, nav apdzīvotas vietas.
+
+
+Izmantot mobilo aplikāciju ["eVeselības punkts"](https://edu.lu.lv/pluginfile.php/639504/mod_book/chapter/1587/Picture7.png).
+
+Kas noticis, cik cietušo vai slimo. Piemēri:
+ - sāpes krūtīs, elpas trūkums, bāla sejas āda satraukums;
+ - cilvēks bezsamaņā  ELPO;
+ - cilvēks bezsamaņā NEELPO;
+ - ļoti stipra asiņošana no rokas, sagriezies uz stikliem, bāls;
+ - auto avārija, 4 cietušie, 2 kliedz, 2 klusē un nekontaktē. Visi asiņaini.
+ - Atgriezies pie cietušā un turpini sniegt palīdzību līdz Ātras palīdzības ierašanas brīdim.
+
+Cietušā aprūpe ietver šādas darbības: 
+ - pirmā palīdzība līdz ĀP ierašanās brīdim;
+ - sniedziet palīdzību, runājot ar cietušo;
+ - psiholoģiskā palīdzība. 
+
+
+Psiholoģiskā palīdzība:
+ - runājiet mierīgi, nomierinoši, bet pārliecinoši;
+ - iepazīstiniet ar sevi;
+ - uzklausiet cietušo;
+ - neatstājiet cietušo vienu;
+ - informējiet cietušo par savām (glābēja) darbībām;
+ - informējiet cietušo par notiekošo (reālā pozitīvā informācija);
+ - uzturiet vieglu kontaktu ar cietušā ķermeni;
+ - neko nepārmetiet;
+ - pasargājiet cietušo no ziņkārīgajiem;
+ - paziņojiet cietušā radiniekiem.
+
+Glābēja uzdevums: Darboties pirmos 3 posmos, retos izņēmuma gadījumos 4 posmu ietvaros. Slimnīca uz pirmās palīdzības sniedzējiem neattiecas. Kāds rezultāts būs slimnīcā, viss ir atkarīgs no pirmajiem trīs glābšanas ķēdītes posmiem.
+
+
+## 5. Asiņošana
+
+Asiņošana ir asins zudums no asinsrites sistēmas, ko izraisa bojāti asinsvadi. Cilvēka ķermeņa asinsrites sistēma nodrošina orgānu šūnām skābekli un uzturvielas. Pieaugušam cilvēkam ir 4-6 litri asiņu. Parasti veselam cilvēkam bez nopietnām medicīniskām grūtībām ir iespējams izturēt 10-15% zudumu no kopējā asins tilpuma. Asiņu zaudējums lielākos apjomos var izraisīt nopietnus orgānu bojājumus, it īpaši galvas smadzeņu bojājumus, kas var novest pie bezsamaņas un nāves.
+
+Jebkurā stipras asiņošanas gadījumā jārīkojas kā dzīvībai bīstamā asiņošanas gadījumā!
+
+Dzīvībai bīstamas asiņošanas pazīmes:
+ - redzams daudz asiņu;
+ - ir asiņainas drēbes;
+ - asinis tek ar straumi.
+
+
+Attēls [bīstamas stipras asiņošanas apturēšana apakšdelmā](https://edu.lu.lv/pluginfile.php/639504/mod_book/chapter/1484/ASINOSANA.png).
+
+Palīdzība stipras asiņošanas gadījumā:
+1. Uzvelciet rokās vienreizlietojamos gumijas cimdus vai izmantojiet cita ūdens necaurlaidīga materiāla aizsardzību (piemēram, plastikāta maisiņu).
+2. Atbrīvojiet asiņojošo vietu no apģērba.
+3. Aizspiediet brūci ar pirkstu, plaukstu vai dūri, ja iespējams, izmantojot marles salveti vai tīru drēbes gabalu.
+4. Noguldiet cietušo guļus ar asiņojošo vietu uz augšu.
+5. Pārliecinieties, ka asiņošana ir apturēta.
+6. Ja asiņošana turpinās, piespiediet brūci stiprāk, ja iespējams, uzliekot vēl marles salveti vai drēbes gabalu pa virsu esošajam materiālam.
+7. Izsauciet ātro palīdzību.
+8. Turiet brūci aizspiestu līdz ātrās palīdzības atbraukšanai.
+9. Neļaujiet atdzist cietušajam, pasargājiet no apkārtējās vides iedarbības.
+10. Aprūpējiet, nomieriniet cietušo.
+
+Palīdzība stipras asiņošanas gadījumos rokā vai kājā, kad ir pieejami pārsienamie materiāli:
+1. Uzvelciet rokās vienreizlietojamos gumijas cimdus vai izmantojiet cita ūdens necaurlaidīga materiāla aizsardzību (piemēram, plastikāta maisiņu).
+2. Atbrīvojiet asiņojošo vietu no apģērba.
+3. Aizspiediet brūci ar pirkstu, plaukstu vai dūri, ja iespējams, izmantojot marles salveti vai tīru drēbes gabalu.
+4. Noguldiet cietušo guļus ar asiņojošo vietu uz augšu.
+5. Uzlieciet spiedošo pārsēju. Uzlieciet uz brūces marles kompresi. Marles kompresi piesieniet ar saiti 2-3 reizes. 6. Uzlieciet spiedošo priekšmetu tieši uz asiņojošās vietas, piesieniet to ar saiti 2-3 reizes.
+6. Pārliecinieties, vai asiņošana ir apturēta.
+7. Ja asiņošana turpinās, papildiniet spiedošā pārsēja konstrukciju ar vēl vienu spiedošo priekšmetu.
+8. Pārliecinieties, ka asiņošana ir apturēta.
+9. Izsauciet ātro palīdzību.
+10. Neļaujiet atdzist cietušajam, pasargājiet no apkārtējas vides iedarbības.
+11. Aprūpējiet, nomieriniet cietušo.
+
+[Spiedošs pārsējs](https://edu.lu.lv/pluginfile.php/639504/mod_book/chapter/1484/spiedoss_parsejs.png?time=1673270505192)
+
+Žņauga izmantošana
+ - Žņaugs ir galējais līdzeklis, ko dzīvībai bīstamas asiņošanas apturēšanai rokā vai kājā izmanto tikai tad, ja brūces aizspiešana vai spiedošs pārsējs nav efektīvi vai ja nav iespējams tos izmantot. Iemesls: žņaugs aizspiež visus, arī veselos asinsvadus zemāk no uzlikšanas vietas, pārtraucot normālo vielmaiņu rokā vai kājā zemāk no uzlikšanas vietas.
+ - Nepareizi uzlikts žņaugs var palielināt asins zudumu.
+
+Kļūdas:
+1. Cietušais netiek noguldīts.
+2. Brūces dezinficēšana.
+3. Pārsēja noraušana.
+4. Žņauga izmantošana, neizmēģinot asiņošanas apturēšanu ar aizspiešanas metodi vai spiedošo pārsēju.
+5. Ātrās palīdzības izsaukšana pirms asiņošanas apturēšanas.
+
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC. Asiņošana"](https://www.youtube.com/watch?v=nKvV1nDdSD4&t=2s) 14.07.2017
+
+
+
+
+
 
 
 
