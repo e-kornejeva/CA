@@ -735,6 +735,428 @@ Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Asi
 
 
 
+### 11.2. Mugurkaula traumas
+
+Mugurkauls sastāv no daudziem kauliem, ko sauc par skriemeļiem, un muguras smadzenes iet uz leju caur kanālu šo kaulu centrā un ir droši pasargātas no ārējās ietekmes. Muguras smadzenes ir nervu saišķis, kas pārraida ziņojumus starp galvas smadzenēm un pārējo ķermeni kustībai un sajūtai. 
+
+Mugurkaula lūzumu gadījumos, tam deformējoties, notiek arī muguras smadzeņu traumatisks ievainojums, kas izraisa muguras smadzenes sasitumus, daļēju vai pilnīgu plīsumu, kurš ir pastāvīgas invaliditātes un nāves cēlonis. Sniedzot pirmo palīdzību, mugurkaula traumu gadījumos vissvarīgākais ir nepasliktināt jau notikušo muguras smadzeņu bojājumu.
+
+
+Situācijas, kuras var izraisīt mugurkaula traumas:
+ - kritiens no augstuma;
+ - lēciens ūdenī;
+ - ceļu satiksmes negadījums (arī gājējs);
+ - cietušajam uzkritis liels smagums;
+ - sprādziens.
+ 
+Šādos gadījumos vienmēr pieņemiet, ka ir mugurkaula trauma!
+
+Palīdzība:
+
+1. Nekustiniet, nepārvietojiet cietušo! Pārvietojiet tikai tad, ja draud briesmas dzīvībai. Pārvietojot cietušo, saudzējiet mugurkaulu (ja nepieciešams pārvietot).
+2. Vienmēr izsauciet Ātro palīdzību.
+3. Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības.
+4. Aprūpējiet, nomieriniet cietušo.
+5. Veiciet atdzīvināšanas pasākumus, ja nepieciešams.
+
+
+Video RigaTV24 raidījums ["Ko darīt, ja sāp?"](https://www.youtube.com/watch?v=bMh6ckcsY04). Ko darīt, ja notiek muguras trauma? 26.10.2016
+
+
+### 11.3. Galvas traumas
+
+Galvas trauma ir plašs termins, kas apraksta plašu ievainojumu klāstu, kas rodas galvas ādā, galvaskausā, smadzenēs un galvas audos un asinsvados. Galvas traumas parasti sauc arī par smadzeņu traumu vai traumatisku smadzeņu bojājumu, kura apjoms ir atkarīgs no galvas traumas smaguma. 
+
+Ir bīstamas, jo var izraisīt bezsamaņu, kas liecina par traumas ietekmi uz galvas smadzenēm, kas var progresēt, attīstoties tūskai galvas smadzeņu audos un asinsizplūdumam, kas strauji palielina spiedienu galvaskausa iekšienē. Spiediena rezultātā, galvas smadzeņu pamatnei iestrēgstot lielajā galvaskausa atverē, tiek bojāti elpošanas, sirdsdarbības un citi galvenās dzīvības funkcijas uzturošie smadzeņu centri.
+
+Pazīmes:
+ - īsāks vai ilgāks brīdis bezsamaņā (galvas traumas gadījumā);
+ - neatceras traumas norisi;
+ - galvas sāpes, galvas reiboņi;
+ - stāvoklis pasliktinās (iekšējā asiņošana).
+ 
+Draudīgas galvas smadzeņu traumas pazīmes, kas liecina par stāvokļa pasliktināšanos:
+ - vienas acs zīlīte ir lielāka par otru;
+ - miegainība vai nespēja pamosties;
+ - galvassāpes, kas pastiprinās un nepāriet;
+ - neskaidra runa, vājums, nejutīgums vai koordinācijas traucējumi;
+ - atkārtota vemšana vai slikta dūša;
+ - krampji (trīce vai raustīšanās);
+ - neparasta uzvedība, pastiprināta apjukums, nemiers vai uzbudinājums;
+ - samaņas zudums.
+ 
+Pat īslaicīgs samaņas zudums ir jāuztver nopietni!
+
+Palīdzība:
+1. Novietojiet cietušo pusguļus vai cietušajam ērtākajā pozā.
+2. Vienmēr izsauciet Ātro palīdzību.
+3. Ja cietušais vemj, pagrieziet to uz  sāniem.
+4. Ja ir brūce, uzlieciet sterilu pārsēju.
+5. Neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības.
+6. Aprūpējiet, nomieriniet cietušo.
+
+Video RigaTV24 raidījums "Ko darīt, ja sāp?". [Ko darīt, ja gūta galvas trauma?](https://www.youtube.com/watch?v=y645TUU8YwA&t=2s) 14.11.2016
+
+
+### 11.4. Krūškurvja traumas
+
+Krūškurvja traumas izraisa trulas spēka traumas, caurejošas traumas vai abi. Ir ļoti svarīgi, lai cilvēkam būtu neskarts krūškurvis, nodrošinot atbilstošu ventilāciju. Ja Ātrā palīdzība netiek ātri izsaukta, var rasties elpošanas mazspēja. Krūškurvja bojājums, kas izraisa nepietiekamu ventilāciju, var ātri izraisīt skābekļa trūkumu organismā, bremzējot dzīvības uzturēšanai nepieciešamos vielmaiņas procesus. 
+
+Trulas krūškurvja sienas traumas ietver ribu lūzumus no vienas ribas līdz krūškurvja lūzumam, kā arī krūšu kaula lūzumus. Ribu lūzumi ir visizplatītākais krūškurvja ievainojums. Lai gan tas ir ļoti sāpīgs, ribu lūzuma problēma parasti nav pats lūzums, bet gan ar iespējamu iekšējo orgānu (plaušas, sirds, aknas) ievainojumu, kas pavada lūzumus.
+
+Situācijas, kuras var izraisīt krūškurvja traumas:
+ - autoavārija;
+ - kritiens no pārmērīga augstuma;
+ - sprādziena traumas;
+ - spēcīgi sitieni pa krūtīm;
+ - krūškurvja saspiešanas traumas;
+ - šautas brūces;
+ - durtas brūces.
+ 
+Pazīmes:
+ - sāpes;
+ - apgrūtināta elpošana;
+ - asins izplūdums;
+ - brūce;
+ - deformācija.
+ 
+Palīdzība:
+1. Novietojiet cietušo pusguļus stāvoklī vai cietušajam ērtākajā pozā.
+2. Izsauciet Ātro palīdzību.
+3. Ja ir brūce, uzlieciet sterilu pārsēju.
+4. Neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības.
+5. Aprūpējiet, nomieriniet cietušo.
+
+Video angļu valodā papildu informācijai: Sikana English [Learn first aid gestures: Chest Wound](https://www.youtube.com/watch?v=x9I_jaJ0vTQ) 18.04.2016
+
+
+### 11.5. Vēdera traumas
+
+Atšķirībā no krūškurvja un iegurņa dobumiem, vēdera dobumā nav kaulu, kas to aizsargātu, un jebkurš ievainojums var izraisīt nopietnus vēdera orgānu bojājumus, tostarp plīsumus aknās, liesā vai kuņģī. Ja tā notiek, cietušais var iekšēji asiņot līdz nāvei, ja vien netiek nodrošināta steidzama palīdzība slimnīcā.
+
+Kas var liecināt par vēdera traumu:
+ - vēdera zonas traumas vēsture, moto vai autoavārija, kritiens no augstuma;
+ - asiņojoša brūce vai cits acīmredzams ievainojums, iespējams, ar redzamām zarnām;
+ - stipras sāpes un iespējama muskuļu spazma pāri vēdera sienai;
+ - slikta dūša vai vemšana;
+ - ādas zilumi;
+ - cietušais nevar nostāvēt un tur ievainoto vietu sāpju mazināšanai;
+ - iekšējas asiņošanas dēļ cietušā āda var būt bāla.
+ 
+Palīdzība:
+1. Novietojiet cietušo guļus ar valnīti zem saliektiem ceļiem vai saglabājiet cietušā saudzējošo pozu.
+2. Vienmēr izsauciet Ātro palīdzību.
+3. Atbrīvojiet cietušo no ciešām drēbēm.
+4. Ja ir brūce, uzlieciet sterilu pārsēju.
+5. Ja brūce asiņo, apturiet asiņošanu ar spiedienu.
+6. Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības.
+7. Aprūpējiet, nomieriniet cietušo.
+
+Necentieties ievietot izkritušos orgānus atpakaļ vēderā un nedodiet ēst, dzert un lietot medikamentus.
+
+
+### 11.6. Asiņošana no deguna
+
+Asiņošana no deguna parasti nerada nopietnas sekas. Tomēr bieža vai spēcīga deguna asiņošana var liecināt par nopietnākām veselības problēmām, piemēram, paaugstinātu asinsspiedienu vai asinsreces traucējumiem, un tā ir jāpārbauda. Pārmērīga asiņošana ilgstoši var izraisīt arī turpmākas problēmas, piemēram, anēmiju.
+
+Palīdzība:
+1. Aizspiediet cietušajam asiņojošo nāsi.
+2. Galvu nolieciet uz priekšu, apsēdiniet.
+3. Uzvelciet gumijas cimdus, lai izvairītos no saskarsmes ar cietušā asinīm.
+4. Pielieciet aukstumu pie deguna un pakauša.
+5. Ja asiņošana turpinās ilgāk par 20 minūtēm, izsauciet Ātro palīdzību,
+6. Neļaujiet cietušam atdzist.
+7. Aprūpējiet un nomieriniet cietušo.
+
+Video: Biedrība Latvijas Sarkanais Krusts. [Pirmā palīdzība deguma asiņošanas gadījumā](https://www.youtube.com/watch?v=TcGDoR6J9QI) 26.01.2021
+
+
+### 11.7. Rīcība autoavārijas vietā
+
+Autoavārijās cietušie ir pakļauti liela spēka triecienu iedarbībai. Bieži ievainojumi, kas izraisa nāvi autoavārijā, ir traumatiski smadzeņu bojājumi, iekšēja asiņošana, lūzumi vai muguras smadzeņu traumas. Šāda veida bojājumi parasti rodas frontālās sadursmes, vadītāja vai pasažiera sānu trieciena vai apgāšanās dēļ, ko izraisa vadītāja neapdomīga rīcība.
+
+Jebkurā ceļu satiksmes negadījumā pieņem, ka cietušajam var būt traumēts mugurkauls.
+
+Ieraugot autoavāriju, novērtējiet situāciju un, neapdraudot sevi, sāciet cietušā glābšanas pasākumus:
+ - Apstādiniet savu automašīnu drošā attālumā no negadījuma vietas.
+ - Ieslēdziet savas automašīnas avārijas gaismas signalizāciju.
+ - Paņemiet automašīnas aptieciņu, avārijas zīmi.
+ - Novietojiet avārijas zīmi nepieciešamajā attālumā no negadījuma vietas.
+ - Centieties iekļūt automašīnas salonā.
+ 
+Palīdzība:
+ - Izvērtējiet situāciju un cietušā stāvokli, ja nepieciešams, izsauciet Ātro palīdzību.
+ - Atstājiet cietušo automašīnas salonā, izņemot gadījumus, kad:
+ 
+1. Ir briesmas cietušā dzīvībai.
+2. Ir bezsamaņa.
+
+ - Saudzīgi izvelciet cietušo ar "pērtiķa tvērienu" (ja nepieciešams).
+ - Sniedz nepieciešamo palīdzību.
+ 
+Atcerieties:
+ - Atvērušies gaisa spilveni nav bīstami Jums un cietušajiem.
+ - Uzmanieties, ja spilveni nav atvērušies.
+ 
+Video: LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Rīcība pēc ceļu satiksmes gadījuma](https://www.youtube.com/watch?v=Ue407uWqzC0) 20.07.2017
+
+
+Rīcība motoavārijas vietā.
+
+Jebkurā ceļu satiksmes negadījumā pieņem, ka cietušajam var būt traumēts mugurkauls.
+
+Palīdzība:
+ - nekustiniet un nepārvietojiet cietušo;
+ - izsauciet Ātro palīdzību;
+ - aizsargķiveri noņemiet ļoti uzmanīgi, saudzējot cietušā kaklu, tikai ja:
+ 
+1.  Ir bezsamaņa.
+2.  Ir asiņošana no ķiveres apakšas.
+
+ - Palīdziet noņemt ķiveri, ja cietušais to grib (piemēram, asiņošana, vemšana).
+ - Sniedziet nepieciešamo palīdzību.
+ 
+Video: LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Ķiveres novilkšana](https://www.youtube.com/watch?v=Xbc8I4LKtnA) 14.08.2017
+
+
+### 11.8. Amputācijas
+
+Traumatiskas amputācijas var piedzīvot transportlīdzekļa avārijās, nelaimes gadījumos darbā vai mājsaimniecībā, kā arī kaujas traumu rezultātā. Smagos negadījumos ķermeņa daļa var tikt nogriezta vai norauta, un ja tā nav tik smagi bojāta no traumas vai apdegumiem, ka to nevar glābt, pastāv iespēja to pievienot atpakaļ.
+
+Palīdzība:
+1. Uzvelciet rokās vienreiz lietojamos gumijas cimdus vai cita ūdens necaurlaidīga materiāla izstrādājumus (piemēram, plastikāta maisiņu).
+2. Atbrīvojiet asiņojošo vietu no apģērba.
+3. Aizspiediet brūci ar pirkstu, plaukstu vai dūri, ja iespējams, izmantojot marles salveti vai tīru drēbes gabalu.
+4. Novietojiet cietušo guļus ar asiņojošo vietu uz augšu.
+5. Uzlieciet pārsēju amputācijas brūcei, to cieši nosaitējot.
+6. Pārliecinieties, ka asiņošana ir apturēta.
+7. Izsauciet Ātro palīdzību.
+8. Neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības.
+9. Aprūpējiet, nomieriniet cietušo.
+
+Rūpējieties par amputēto ķermeņa daļu:
+ - ietiniet to tīrā materiālā;
+ - ieliec to nebojātā plastikāta maisiņā;
+ - plastikāta maisiņu ievietojiet rezervuārā (maisiņš, spainis u.c.) ar ledus un auksta ūdens maisījumu vai ievietojiet ledusskapja siltākajā daļā (optimālā temperatūra +4°C).
+ - nemazgā amputēto ķermeņa daļu;
+ - neļaujiet amputētai ķermeņa daļai sasalt vai sasilt! 
+ 
+ 
+Video: LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Amputācija](https://www.youtube.com/watch?v=8DBHCIo_7uE&t=1s) 26.07.2017
+
+
+Video NMP dienests. [Palīdzība amputācijas gadījumā](https://www.youtube.com/watch?v=6X0ZVt-OLAQ) 27.10.2015
+
+
+
+### 11.9. Izsists zobs
+
+Palīdzība:
+1. Paceliet izsisto zobu, turot to aiz zoba kronīša (baltās daļas).
+2. Ievietojiet zobu aukstā pienā.
+3. Nekavējoties dodieties pie zobārsta.
+Ja izsistais zobs tiek ievietots atpakaļ vienas stundas laikā, ir lielas izredzes zoba ieaugšanai.
+
+
+## 12. Dzīvnieku izraisītie nelaimes gadījumi
+
+1. Dzīvnieku kodumi
+2. Čūskas kodumi
+3. Insektu kodumi
+
+### 12.1. Dzīvnieku kodumi
+
+Kodumu brūces biežāk ir kājās, rokās un sejā, tās maz asiņo, taču ir sāpīgas. Visbiežāk sastopami suņa kodumi. Pēc pirmās palīdzības sniegšanas visos gadījumos ir jāgriežas ārstniecības iestādē, jo caur suņu, kaķu, kā arī plēsīgo savvaļas dzīvnieku – vilku, lapsu, jenotu, lāču u.c. – kodumiem organismā var iekļūt trakumsērgas ierosinātājs. No saslimšanas ar trakumsērgu pasargā potēšanās tūlīt pēc dzīvnieka koduma.
+
+Bīstami! Potenciālas trakumsērgas briesmas.
+
+Palīdzība:
+1. Apturiet asiņošanu.
+2. Ja brūce ir neliela, nav dzīvībai bīstama asiņošana, to mazgājiet ar ziepēm un ūdeni.
+3. Ādu ap brūci jānojodē ar 5-10% joda šķīdumu.
+4. Pārsieniet brūci ar sterilo pārsēju.
+5. Izsauciet Ātro palīdzību.
+6. Potējieties pret trakumsērgu.
+
+Kļūdas:
+ - Koduma ignorēšana.
+ - Brūces dezinficēšana ar spirtu.
+ - Sakostas vietas kasīšana.
+ - Trakumsērgas riska ignorēšana.
+ 
+ 
+Video: LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Suņu kodumi](https://www.youtube.com/watch?v=RXEwAVAvNro&t=1s) 27.07.2017
+
+ 
+
+
+### 12.2. Čūskas kodumi
+
+Latvijā sastopama tikai viena indīga čūsku suga — odze, kuras kodums var būt arī nāves cēlonis. Odze cilvēkam neuzbrūk, tā iekož, ja tai uzkāpj virsū vai pieskaras. Koduma vietā redzamas 2 lielākas un 2 mazākas četrstūrī novietotas brūces. Indes iedarbība atkarīga no vietas, kur čūska iekodusi, — kodums rokā bīstamāks nekā kājā. Saindēšanās ir sevišķi smaga, ja inde iekļuvusi asinsvadā.
+
+Palīdzība:
+ - Izsauciet Ātro palīdzību.
+ - Centieties nekustināt sakosto ķermeņa daļu.
+ - Atvēsineti koduma vietu.
+ - Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības.
+ - Smakšanas gadījumā veiciet atdzīvināšanu.
+ - Aprūpējiet, nomieriniet cietušo.
+ 
+Kļūdas:
+ - Žņauga vai pārsēja likšana.
+ - Mediķu palīdzības nelūgšana.
+ - Indes sūkšana ar muti.
+ - Koduma vietas griešana, piededzināšana.
+ - Alkohola lietošana iekšēji.
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Čūskas kodums](https://www.youtube.com/watch?v=jTJDff4QMl4) 19.07.2017
+
+
+### 12.3. Insektu kodumi
+
+Vairumā gadījumu, ja iekodis kukainis, uztraukumam nav pamata. Koduma vieta var būt apsārtusi, pietūkusi ar nelielu niezes sajūtu. Bišu un lapseņu kodumi var būt sāpīgi, bet lielāko daļu nav bīstami. Retākos gadījumos var parādīties alerģiska reakcija uz kāda kukaiņa kodumu, pēc kura var pasliktināties veselības stāvoklis, izraisot alerģisko reakciju un anafilaktisko šoku, kurš var izraisīt smakšanu, attīstoties elpceļu nosprostošanai tūskas dēļ. Siltā gada laikā bīstama ir ērču piesūkšanas, jo tās pārnēsā ērču encefalītu un Laimas slimības izraisītājus.
+
+## Ja kodiens ir ķermenī
+
+Palīdzība: 
+ - dodieties uz drošu vietu, lai pasargātos no jauniem kodumiem;
+ - izņemiet dzeloni, ja tāds ir;
+ - nomazgājiet koduma vietu ar ūdeni un ziepēm;
+ - pie kodiena vietas pielieciet aukstu ūdens kompresi;
+ - ja kodiens ir rokā vai kājā, paceliet to uz augšu.
+ 
+## Ja kodiens ir mutes dobumā
+
+Bīstami! Iespējama elpceļu nosprostošanās un smakšana tūskas dēļ.
+
+Palīdzība:
+1. Vienmēr izsauciet Ātro palīdzību.
+2. Dodiet sūkāt ledu vai maziem malkiem aukstu dzeramo.
+3. Dzesējiert pampuma vietu.
+4. Dzesējiet kaklu no ārpuses.
+5. Smakšanas gadījumā veiciet atdzīvināšanu.
+
+ Kļūdas:
+ - alkohola lietošana;
+ - kasīšana;
+ - duršana;
+ - indes izsūkšana;
+ - bezrecepšu medikamentu lietošana;
+ - caurules duršana kaklā smakšanas gadījumā.
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Kukaiņu dzēlieni](https://www.youtube.com/watch?v=r3ZVtv6R1MM) 18.07.2017
+
+## Ja piesūkusies ērce
+
+Palīdzība:
+1. Uzlieciet uz ērces vates tamponu, kas samērcēts spirtā vai degvīnā, un paturi 5 min..
+2. Ērces izvilkšanai izmantojiet smailu pinceti, ar ko satver ērces snuķīti pēc iespējas tuvāk ādai, un tad lēni, ar apļveida kustību izskrūvē ērci ārā.
+3. Ja nav pincetes, ap ērces snuķīti apsien stipru diegu un, turot aiz diega galiem, tāpat izskrūvē ērci.
+4. Pēc ērces izņemšanas koduma vietu dezinficējiet.
+5. Rokas nomazgājiet ar ūdeni un ziepēm.
+6. Ja attīstās sajūta kā pie gripas bez saaukstēšanas pazīmēm, jāgriežas pie ārsta.
+
+Ērce ir jāizņem iespējami ātri!
+
+Ērču encefalīta profilakse:
+ - vakcinācija;
+ - gari zābaki un bikses, dodoties pie dabas;
+ - ķermeņa pārbaude, atgriežoties mājās.
+ 
+ Kļūdas:
+ - savlaicīga ērces nenoņemšana;
+ - aiztikšana ar kailiem pirkstiem;
+ - saspiešana.
+ - apziešana ar eļļu vai sviestu.
+ - uzmanības nepievēršana encefalīta simptomiem.
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Ērces](https://www.youtube.com/watch?v=g6OhPcj-ajc&t=1s) 21.07.2017
+
+
+## 13. Svešķermeņi
+
+1. Svešķermenis elpceļos
+2. Svešķermenis brūcē
+3. Svešķermenis acī
+4. Svešķermenis ausī
+
+
+### 13.1. Svešķermenis elpceļos
+
+Ik gadu vairāki simti cilvēku Latvijā aizrijas ar dažādiem svešķermeņiem, pārsvarā ar gaļu vai citiem pārtikas produktiem. Bieži aizrīšanās ir tik nopietna, ka jāsniedz palīdzība, veicot atdzīvināšanas pasākumus, jo svešķermenis ir iekļuvis dziļi elpceļos, kā rezultātā cilvēks pārstāj elpot. Biežāk aizrijas bērni pirmajos dzīves gados, aizrijoties ar ēdienu vai bāžot mutē dažādus priekšmetus. Paaugstināts aizrīšanās risks ir arī slimniekiem, kuriem ir rīšanas traucējumi, piemēram, pēc pārciesta insulta.
+
+Bīstami, iespējama smakšana!
+
+Palīdzība:
+1. Laujiet cietušajam svešķermeni atklepot pašam.
+2. Ja cietušais svešķermeni pats nespēj atklepot:
+ - noliecot cietušā ķermeņa augšdaļu, uzsitiet 5 reizes starp lāpstiņām;
+ - lietojiet Heimliha paņēmienu (5 reizes spēcīgi spiediet savu dūri starp nabu un krūtīm);
+ - ja nepieciešams, turpiniet veikt sitienus starp lāpstiņām (5 reizes) pārmaiņus ar Heimliha paņēmienu (5 grūdieni), kamēr svešķermenis iznāk ārā;
+ - izsauciet Ātro palīdzību;
+ - veiciet atdzīvināšanas pasākumus, ja nepieciešams.
+ 
+#### IMG: #@@host#/pluginfile.php/639504/mod_book/chapter/1502/Picture1.jpg
+
+
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Ko darīt, ja aizrijies pieaudzis cilvēks?](https://www.youtube.com/watch?v=VUb7R7rmvDA&t=1s) 05.07.2017
+
+Ja aizrijies bērns – palīdzība tāda pati, kā pieaugušo gadījumā.
+ 
+#### IMG: #@@host#/pluginfile.php/639504/mod_book/chapter/1502/Aizr%C4%AB%C5%A1an%C4%81s.jpg
+
+Ja aizrijies zīdainis:
+1. Ļaujiet zīdainim svešķermeni atklepot pašam.
+2. Ja zīdainis svešķermeni pats nespēj atklepot, tad palīdziet viņam:
+ - novietojiet zīdaini, ar galvu zemāk, jāteniski ar vēderu uz sava apakšdelma, kas balstās uz augšstilba;
+ - veiciet piecus „grūdošus” uzsitienus pa muguru starp lāpstiņām virzienā uz priekšpusi;
+ - veiciet piecas krūšu kurvja kompresijas;
+ - pēc katrām piecām darbībām jāpārbauda elpceļi – jāieskatās mutē;
+ - turpiniet veikt sitienus starp lāpstiņām un spiedienus uz krūšu kaula, ja nepieciešams;
+ - izsauciet Neatliekamo medicīnisko palīdzību;
+ - veiciet atdzīvināšanas pasākumus, ja nepieciešams.
+ 
+Svešķermeni drīkst izvilkt tikai redzes kontrolē, jo pretējā gadījumā ir risks to iestumt dziļāk.
+
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Zīdaiņa aizrīšanās](https://www.youtube.com/watch?v=3adaZftenu4&t=1s) 06.07.2017
+
+
+### 13.2. Svešķermenis brūcē
+
+Situācijas, kad tiek gūtas traumas, kurās kādā ķermeņa daļā ir iekļuvis svešķermenis, ir dažādas, sākot ar gadījumiem, kur cilvēkam, skaldot malku, acī trāpījusi koka atlūza, līdz gadījumiem, kad, veicot lauku darbus, cietušais uzdūries uz kūts dakšas. Šādos brīžos būtiski ir neizvilkt no brūces svešķermeni, lai pasargātu no spēcīgas asiņošanas, un nekavējoties meklēt mediķu palīdzību. Pavirši, ārējā ādas slānī iedūries svešķermenis, piemēram, skabarga, var tikt izvilkts patstāvīgi.
+
+Palīdzība:
+1. Apturiet dzīvībai bīstamo asiņošanu, spiežot uz asiņojošās vietas blakus svešķermenim.
+2. Novietojiet marles polsterējumu ap objektu, lai novērstu tā sagriešanos vai pārvietošanos.
+3. Uzlieciet pārsēju virs un ap polsterējumu, lai nostiprinātu svešķermeni.
+4. Izsauciet Ātro palīdzību.
+
+Neizvelciet svešķermeni un nepieļaujiet svešķermeņa iespiešanu brūcē!
+ 
+#### IMG: #@@host#/pluginfile.php/639504/mod_book/chapter/1518/Picture2.jpg
+ 
+Ja iedūrusies skabarga
+
+Palīdzība:
+1. Noskalojiet ar ziepjūdeni.
+2. Dezinficējiet pinceti un bojājuma vietu.
+3. Izvelciet skabargu.
+4. Dezinficējiet.
+5. Uzlieciet plāksteri.
+6. Ja nevarat izvilkt, struto, jāgriežas pie ārsta.
+
+Kļūdas:
+ - netīra pincete;
+ - bakstīšana, skabargas grozīšana;
+ - iestumšana dziļāk;
+ - izgriešana, piededzināšana;
+ - tikai vienas daļas izvilkšana.
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Skabarga. Pieaugušie](https://www.youtube.com/watch?v=Ooaz874K3sM&t=1s) 05.09.2017
+
+
+
+
 
 
 
