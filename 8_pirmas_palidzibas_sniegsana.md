@@ -247,6 +247,102 @@ Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC. Asi�
 
 
 
+## 6. Šoks
+
+Šoks izraisa nepietiekamu skābekļa apgādi dzīvībai svarīgos orgānos, kas var novest pie to bojājuma. Šoka gadījumā attīstās kritiski zemas orgānu apgādes ar asinīm stāvoklis ar stipri samazinātu audu skābekļa piegādi, kā rezultātā attīstās nespēja uzturēt vielmaiņu. Katrs nelaimes gadījums var izraisīt šoku un katrs šoks var apdraudēt cietušā dzīvību.
+
+Šoku var izraisīt:
+ - asins zudums;
+ - sāpes (viss, kas var izraisīt sāpes, var izraisīt šoku).
+
+
+Attēls [dzīvībai bīstama asiņošana](https://edu.lu.lv/pluginfile.php/639504/mod_book/chapter/1485/Picture2.png)
+
+Attēls [sāpes pie kaulu lūzuma ar apakšdelma deformāciju](https://edu.lu.lv/pluginfile.php/639504/mod_book/chapter/1485/Picture3.png).
+
+Palīdzība – neļaut attīstīties šokam:
+1. Novērsiet vai ierobežojiet šoka cēloni (apturiet asiņošanu, nepastipriniet sāpes ar savu rīcību – nemēģiniet kustināt kaulu lūzumā deformēto roku vai kāju).
+2. Atstājiet vai novietojiet cietušo guļus.
+3. Izsauciet Ātro palīdzību.
+4. Neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības.
+5. Aprūpējiet, nomieriniet cietušo.
+
+
+Kļūdas:
+1. Traumētās vietas kustināšana.
+2. Stiprināšana ar cietiem priekšmetiem.
+3. Mēģinājums nokļūt ārstniecības iestādē, ja lūzuma vieta nav nostiprināta.
+4. Ātrās palīdzības izsaukšana pirms novērsts vai ierobežots šoka cēlonis.
+
+
+Palīdzība, ja lauzta roka vai kāja: video [LTV raidījuma "Rīta panorāmas" rubrika "Pirmās palīdzības ABC - Ko darīt, ja lauzta roka vai kāja"](https://www.youtube.com/watch?v=975JKZhUE3o&t=1s). 07.07.2017
+
+
+
+
+## 7. Termiskie bojājumi
+
+1. Pārkaršana
+2. Apdegumi
+3. Pašpārbaudes tests – Apdegumi
+4. Rīcība ugunsgrēka laikā
+5. Pašpārbaudes tests – Rīcība ugunsgrēka laikā
+6. Atdzišana
+7. Pašpārbaudes tests – Atdzišana
+8. Apsaldējumi
+9. Pašpārbaudes tests – Apsaldējumi
+
+
+###7.1. Pārkaršana
+
+Pārkaršana (karstuma dūriens) var izraisīt smagus veselības traucējumus un ir bīstama cietušā dzīvībai. Karstuma dūriens ir stāvoklis, kas rodas, kad organisms pārkarsējas un vairs nespēj sevi dzesēt un tā termoregulācija "nobrūk". Saules dūriens ir karstuma dūriena veids, ko izraisa pārāk ilgstoša uzturēšanās tiešos saules staros. Tā ietekmē paplašinās zemādas asinsvadi, radot asins sastrēgumus, nieru bojājumus un smadzeņu tūsku, kas smagākos gadījumos var izraisīt asinsvadu plīsumus un asinsizplūdumu.
+
+Veicinošie apstākļi:
+ - bezvējš;
+ - nepietiekoši uzņemts šķidrums;
+ - karstums;
+ - mitrums;
+ - neatbilstošs apģērbs;
+ - fiziskā slodze.
+
+Pazīmes:
+•	karsta āda, augsta temperatūra;
+•	apziņas traucējumi, krampji;
+•	ātrs, vājš pulss;
+•	ātra elpošana;
+•	āda var būt gan sausa, gan slapja.
+
+Profilakse:
+•	karstos apstākļos ilgstoši neuzturieties ārā, īpaši laika posmā no pulksten 12 līdz 15;
+•	valkājiet karstam laikam piemērotu apģērbu – gaišas, vieglas drēbes no dabīga materiāla;
+•	uzturoties saulē, valkājiet galvassegu;
+•	dienā izdzeriet vismaz 2 -3 litrus ūdens, fiziskās slodzes apstākļos – vēl vairāk;
+•	ja esat pārkārsis, nedrīkst iet peldēties aukstā ūdenī;
+•	izvairieties no smagas fiziskās slodzes karstās, nevēdinātās telpās;
+•	regulāri ejiet vēsā dušā vai atvēsinieties ar vēsu ūdeni, kaut vai mitrinot seju;
+•	karstos apstākļos samaziniet kafijas un stipras tējas patēriņu, kas veicina organisma dehidratāciju;
+•	izvairieties no alkohola lietošanas.
+
+Palīdzība:
+•	novietojiet cietušo vēsākā vietā vai ēnā pusguļus;
+•	atbrīvojiet cietušo no bieza apģērba;
+•	mitriniet cietušā seju, kaklu un krūtis ar vēsu ūdens kompresi;
+•	dodiet cietušajam dzert vēsu ūdeni;
+•	vēdiniet, dzesējiet, radiet gaisa plūsmu;
+•	ja pašsajūta neuzlabojas, izsauciet ātro palīdzību;
+•	ja cietušais ir bērns vai senjors,  obligāti izsauciet ātro palīdzību.
+
+Kļūdas:
+•	atstāšana karstā saulē;
+•	saldināti dzērieni, alkohols;
+•	dot dzert ļoti aukstu ūdeni;
+•	atvēsināšana aukstā, ledainā ūdenī.
+
+
+
+
+
+
 
 
 
