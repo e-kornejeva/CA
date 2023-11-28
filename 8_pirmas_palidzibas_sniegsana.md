@@ -1155,6 +1155,217 @@ Kļūdas:
 Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Skabarga. Pieaugušie](https://www.youtube.com/watch?v=Ooaz874K3sM&t=1s) 05.09.2017
 
 
+### 13.3. Svešķermenis acī
+
+Svešķermenis acī var radīt graušanas sajūtu, acs asarošanu. Ja gruzis acī atrodas ilgstoši, var veidoties arī iekaisums. Tāpēc vienīgais risinājums ir svešķermeni no acs dabūt ārā, ko var izdarīt ar acs skalošanu. Jo ātrāk, jo labāk, lai nerodas iespēja attīstīties infekcijai.
+
+Palīdzība:
+1. Ļaujiet acij dabiski asarot.
+2. Skalojiet aci zem tekoša ūdens krāna.
+3. Vates tamponu samitrināt ūdenī un izspiest, ļaujot iztecēt pa acs iekšējo kaktiņu.
+4. Tas jāatkārto, līdz svešķermenis ir pazudis.
+5. Ja svešķermenis ir zem apakšējā plakstiņa, tad cilvēks actiņu var skalot pats.
+6. Ja svešķermenis nokļuvis zem augšējā plakstiņa, jāgriežas pie ārsta.
+ 
+#### IMG: #@@host#/pluginfile.php/639504/mod_book/chapter/1519/Picture3.jpg
+
+Kļūdas:
+ - berzēšana;
+ - skalošana ar ziepjūdeni;
+ - laizīšana ar mēli.
+ 
+Ja svešķermenis ir iedūries acī:
+1. Uzlieciet pārsēju abām acīm.
+2. Dodieties pie ārsta.
+
+Nemēģiniet izvilkt svešķermeni no acs.
+
+Video [Svešķermenis acī](https://www.youtube.com/watch?v=NzNHhlDQRrE&t=1s) 21.08.2017
+
+
+### 13.4. Svešķermenis ausī
+
+Biežāk svešķermeņi ausīs ir sastopami maziem bērniem, kuri paši ievieto sīkus priekšmetus ārējā auss ejā. Taču nereti arī kukaiņi ielien vai ielido ausī pieaugušajiem. Pārsvarā, kad svešķermenis ir ārējā auss ejā, nav nepieciešama neatliekama medicīniska palīdzība un nav dzīvībai bīstama. 
+
+Palīdzība:
+ - Lēnām izņemiet ārējo svešķermeņa daļu, ja tāda ir.
+ - Nemēģiniet atlikušo daļu izņemt ar pirkstiem vai pinceti – to var iegrūst dziļāk.
+ - Nolieciet galvu ar skarto ausi uz leju un lēnam pakratiet to.
+ - Ja svešķermenis no auss neizlec, meklējiet mediķu konsultāciju.
+ 
+Ja auss ejā ir iekļuvis kukainis:
+1. Nebāziet ausī pirkstu, lai kukainis neiedzeltu.
+2. Nolieciet galvu ar skarto ausi uz augšu, lai kukainis varētu izlīst.
+3. Ja kukainis joprojām ir ausī, tad iepiliniet dažus pilienus olīveļļas, tad ūdeni, iespējams, ka kukainis uzpeld.
+4. Ja kukaini neizdodas evakuēt, jāmeklē ārsta palīdzība.
+5. Jāgriežas pie ārsta nekavējoties, ja parādās asiņaini vai dzidri izdalījumi no auss vai sāpes.
+ 
+#### IMG: #@@host#/pluginfile.php/639504/mod_book/chapter/1521/Picture4.png
+
+Video angļu valodā papildu informācijai:St John Ambulance. [If your Baby has a Foreign Object in the Nose or Ear - First Aid Training](https://www.youtube.com/watch?v=8FK8w6HFdcw) 02.09.2016
+
+
+
+14. Daudz cietušo vienlaicīgi
+
+Ja ir vairāki upuri, ir svarīgi noteikt prioritāti, kam glābējs vispirms sniegs aprūpi.
+Uzskatiet, ka Jūs esat vienīgais, kurš spēj palīdzēt. Rīkojieties!
+
+Novērtējiet situāciju:
+ - Kas ir nelaimes gadījuma iemesls?
+ - Kāds ir cietušo skaits?
+ - Novērtējiet atrašanās vietu un tuvākos ceļus.
+ - Novērtējiet, kādi dienesti būs nepieciešami – ĀP, VUGD, VP?
+ - Vai ir draudošas briesmas notikuma vietā?
+ - Novērtējiet resursus, kas ir Jūsu rīcībā, un neievainotos, kas var palīdzēt.
+ - Ziņojiet 113 vai 112 . Informējiet par situāciju un turpmāko sazināšanos. 
+ 
+Rīcības secība:
+1. Sniedziet pirmo palīdzību tiem, kuri nekliedz (iespējama bezsamaņa).
+2. Sniedziet pirmo palīdzību tiem, kuri asiņo (dzīvībai bīstama asiņošana).
+3. Staigājošos cietušos sapulciniet atsevišķi un sniedziet tiem nepieciešamo palīdzību.
+4. Neļaujiet atdzist cietušajiem/pasargājiet tos no apkārtējās vides iedarbības.
+5. Aprūpējiet, nomieriniet cietušos.
+6. Nomieriniet visus, neļaujiet izcelties panikai.
+
+Video LTV Ziņu dienests. [Pilnveido iemaņas dzīvības glābšanā](https://www.youtube.com/watch?v=QfiApe-jUdg&t=1s) 28.05.2017
+
+
+## 15. Slimības
+
+1. Krampji
+2. Sāpes krūtīs, elpas trūkums
+3. Sāpes vēderā
+4. Cukura diabēts
+5. Insults
+
+
+### 15.1. Krampji
+
+Krampji tiek visbiežāk vēroti slimojošiem ar epilepsiju un izpaužas kā ķermeņa muskuļu vai to grupu raustīšanās, cietušajam vienlaicīgi zaudējot samaņu, taču ir iespējamas arī vieglākas izpausmes formas. Krampju lēkmei beidzoties, cietušais atgūst samaņu un ir spējīgs par sevi parūpēties, pastāstīt, ka ir slims ar epilepsiju. Krampjiem var būt arī citi retāk sastopami iemesli – galvas smadzeņu traumas un audzēji, ļoti augsta ķermeņa temperatūra, organisma vielmaiņas traucējumi.
+
+Palīdzība:
+1. Sargājiet no iespējamām traumām.
+2. Pasargājiet cietušā galvu, palieciet zem tās mīkstu priekšmetu.
+3. Fiksējiet lēkmes ilgumu.
+4. Ja lēkme garāka par 3 min. vai tā atkārtojas, izsauciet Ātro palīdzību.
+5. Ja cietušais pēc lēkmes ir bezsamaņā, izsauciet Ātro palīdzību.
+6. Tikai pēc lēkmes veiciet atdzīvināšanas pasākumus, ja nepieciešams.
+
+Kļūdas:
+ - cietušā turēšana;
+ - cietušā pārvietošana;
+ - mēģināšana atvērt sakostos zobus;
+ - priekšmetu bāšana mutē.
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Epilepsija](https://www.youtube.com/watch?v=NyJwNF_xNMQ) 09.08.2017
+
+
+### 15.2. Sāpes krūtīs, elpas trūkums
+
+Sāpes krūtīs, elpas trūkums var liecināt par draudošo vai jau notikušo miokarda infarktu. Miokarda infarkts ir dzīvībai bīstams stāvoklis, kad nepietiekamas apasiņošanas dēļ iet bojā daļa sirds muskulatūras un sirds vairs nespēj nodrošināt asinsriti. Daudzos gadījumos cilvēka dzīve ir atkarīga no tā, cik savlaicīgi būs uzsākta ārstēšana. Svarīgi zināt pirmās slimības pazīmes, lai spētu to atpazīt.
+
+Pirmās pazīmes:
+ - sāpes – griešana, dedzināšana krūtīs, var izstarot uz kreiso roku, žokli;
+ - liels vājums un elpas trūkums;
+ - panika un bailes stipro sāpju dēļ;
+ - sirdsklauves;
+ - galvas reibonis;
+ - pārmērīgs nogurums;
+ - slikta dūša, vemšana.
+ 
+ Palīdzība:
+1. Nodrošiniet saslimušajam mieru un svaigu gaisu.
+2. Palīdziet saslimušajam ieņemt visērtāko ķermeņa stāvokli.
+3. Palīdziet saslimušajam ieņemt viņa paša jau zināmās zāles.
+4. Izsauciet Ātro palīdzību.
+5. Neļaujiet atdzist saslimušajam, pasargājiet to no apkārtējās vides iedarbības.
+6. Aprūpējiet, nomieriniet saslimušo.
+7. Veiciet atdzīvināšanas pasākumus, ja nepieciešams.
+
+Kļūdas:
+ - slimības simptomu neatpazīšana;
+ - laika vilcināšana, cerot, ka pāries;
+ - pašārstēšanās.
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Infarkts](https://www.youtube.com/watch?v=IYYyDzZrPfg&t=1s) 03.08.2017
+
+
+### 15.3. Sāpes vēderā
+
+Vēdera sāpes ir biežs simptoms un var būt gan funkcionālu pārejošu traucējumu rezultātā, gan dzīvībai bīstamas slimības pazīme. Pacienti ar akūtu vēdera dobuma orgānu slimību, kuras gadījumā var būt nepieciešama neatliekama ķirurģiska ārstēšana, pēc iespējas ātrāk jānogādā tādā medicīnas iestādē, kur var veikt atbilstošu izmeklēšanu, novērošanu un ārstēšanu.
+
+ Palīdzība:
+1. Palīdziet saslimušajam ieņemt visērtāko ķermeņa stāvoklī.
+2. Izsauciet Ātro palīdzību.
+3. Neļaujiet atdzist saslimušajam/pasargājiet to no apkārtējās vides iedarbības.
+4. Aprūpējiet, nomieriniet saslimušo.
+
+ Kļūdas:
+ - pretsāpju medikamentu lietošana;
+ - sildīšana;
+ - ēšana vai dzeršana.
+ 
+Vemšana ar melnu vai asiņainu saturu vai vēdera izeja melnā krāsā var būt vēdera orgānu asiņošanas gadījumā, kas apdraud cietušā dzīvību.
+
+Video angļu valodā papildu informācijai: [iPatientCare. First Aid Info - Abdominal Pain](https://www.youtube.com/watch?v=XVqbGUYMKXo) 08.04.2016
+
+
+
+
+
+### 15.4. Cukura diabēts
+
+Ikvienai cilvēka šūnai nepieciešama enerģija, kuru nodrošina ar uzturu uzņemts cukurs (glikoze). Lai šis process noritētu, nepieciešams hormons – insulīns, kuru ražo aizkuņģa dziedzerī. Ja cilvēkam trūkst insulīns, glikoze paliek asinīs, attīstās slimība – cukura diabēts. 
+
+Glikozes līmeņa mazināšanai cukura diabēta pacienti ikdienā injicē insulīnu, kuru pārdozējot vai laikus nepaēdot var attīstīties hipoglikēmija – nepietiekams glikozes (cukura) daudzums asinīs. Cukura līmeņa pazemināšanās asinīs var izraisīt dzīvībai bīstamu stāvokli, galvas smadzeņu un citu orgānu šūnas “paliek badā”, attīstās neatgriezeniskas izmaņas.
+
+Apzini cukura diabēta slimniekus savu paziņu vidū!
+
+Visbiežākās pazīmes:
+ - nogurums bez redzama iemesla;
+ - neizskaidrojams svara zudums;
+ - slāpes;
+ - bieža urinācija;
+ - redzes pasliktināšanās;
+ - tirpšanas sajūta kājās.
+ 
+Palīdzība:
+1. Ja diabēta slimnieks sāk justies slikti, dodiet cukuru saturošus dzērienus vai ēdienus.
+2. Ja stāvoklis neuzlabojas, izsauciet Ātro palīdzību.
+3. Neļaujiet atdzist saslimušajam, pasargājiet to no apkārtējās vides iedarbības.
+4. Aprūpējiet, nomieriniet saslimušo.
+5. Veiciet atdzīvināšanas pasākumus, ja nepieciešams.
+
+Cukura aizvietotāji neder!
+
+Video Latvijas diabēta federācija. [Cukura diabēts un hipoglikēmija](https://www.youtube.com/watch?v=zFjYw8Sco2s&t=1s). 16.06.2022
+
+
+### 15.5. Insults
+
+Insults ir galvas smadzeņu bojājums, kura cēlonis ir asinsrites traucējumi galvas smadzenēs, kas apdraud saslimušā dzīvību, jo, nepienākot ar asinīm glikozei un skābeklim, apstājas vielmaiņas procesi smadzeņu šūnās. Notiek neatgriezeniski procesi, un šūnas iet bojā. Atkarībā no bojājuma lokalizācijas tiek traucēta vai pat zaudēta kāda no organisma funkcijām, cilvēku smagi invalidizējot, var iestāties nāvē.
+
+Pazīmes, kas liecina par insultu:
+ - smaidot šķība viena sejas puse (palūdziet smaidīt);
+ - nevar vienlaicīgi vienmērīgi pacelt abas rokas;
+ - nevar atkārtot vienkāršu teikumu.
+ 
+Palīdzība:
+1. Nekavējoties izsauciet Ātro palīdzību (ja ir vismaz viena no šīm pazīmēm).
+2. Ja ir samaņas traucējumi, novietojiet cietušo stabilā sānu pozā.
+3. Neļaujiet atdzist saslimušajam, pasargājiet to no apkārtējās vides iedarbības.
+4. Aprūpējiet, nomieriniet saslimušo.
+5. Veiciet atdzīvināšanas pasākumus, ja nepieciešams.
+6. Slimnīcā jānokļūst 4,5 stundu laikā pēc pirmajiem simptomiem.
+
+Kļūdas:
+ - laika vilcināšana;
+ - medikamentu lietošana;
+ - ēšana vai dzeršana;
+ - ārstēšanās mājas apstākļos.
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Insults](https://www.youtube.com/watch?v=BKl7Zyum5yY&t=1s) 02.08.2017
 
 
 
