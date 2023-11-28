@@ -339,7 +339,7 @@ Kļūdas:
  - dot dzert ļoti aukstu ūdeni;
  - atvēsināšana aukstā, ledainā ūdenī.
 
-
+ Video: LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC. Pārkaršana"](https://www.youtube.com/watch?v=FdDGpmTZhmQ&t=1s) 10.08.2017
 
 
 
