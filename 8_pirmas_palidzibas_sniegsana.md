@@ -294,7 +294,7 @@ Palīdzība, ja lauzta roka vai kāja: video [LTV raidījuma "Rīta panorāmas" 
 
 
 
-###7.1. Pārkaršana
+### 7.1. Pārkaršana
 
 Pārkaršana (karstuma dūriens) var izraisīt smagus veselības traucējumus un ir bīstama cietušā dzīvībai. Karstuma dūriens ir stāvoklis, kas rodas, kad organisms pārkarsējas un vairs nespēj sevi dzesēt un tā termoregulācija "nobrūk". Saules dūriens ir karstuma dūriena veids, ko izraisa pārāk ilgstoša uzturēšanās tiešos saules staros. Tā ietekmē paplašinās zemādas asinsvadi, radot asins sastrēgumus, nieru bojājumus un smadzeņu tūsku, kas smagākos gadījumos var izraisīt asinsvadu plīsumus un asinsizplūdumu.
 
