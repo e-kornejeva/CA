@@ -346,6 +346,396 @@ Kļūdas:
 
 
 
+##7.2. Apdegumi
+Apdegumi ir audu bojājumi, kas radušies augstas temperatūras iedarbībā. Apdegumiem raksturīgi ādas bojājumi, kas izraisa skarto ādas šūnu bojāeju. Pat neliels, bet dziļš apdegums var būt dzīvībai bīstams.
+
+
+Palīdzība:
+1. Pēc iespējas ātrāk apdegušo vietu dzesējiet ar vēsu (+15°C līdz +25°C), tekošu ūdeni vismaz 10 minūtes; lejiet ūdeni starp apģērbu un ādu.
+2. Dzesēšanas laikā uzmanīgi novelciet no cietušā traumētās ķermeņa daļas apģērbu, apavus, gredzenus.
+3. Apdegumu brīvi pārklājiet ar marles salveti, pārtikas plēvi vai folijas segu.
+4. Meklējiet mediķu konsultāciju, ja apdegums lielāks par cietušā plaukstu, izsauciet Ātro palīdzību.
+5. Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības.
+6. Aprūpējiet, nomieriniet cietušo.
+
+
+Īpašie gadījumi: Sejas apdegumu gadījumā vienmēr apdeg elpceļi.
+
+ - Ja cietušajam ir elpceļu apdegums, vienmēr zvaniet Ātrai palīdzībai, jo draud smakšana.
+ 
+Ja aizdedzies apģērbs:
+ - degošo cilvēku novietojiet uz zemes;
+ - noslāpējiet liesmu ar dabīga auduma (nesintētisku) segu,  vārtot vai aplejot cietušo ar ūdeni;
+ - varat lietot speciālās ugunsdzēšanas ierīces, bet dariet to, saudzējot seju.
+ 
+Kļūdas:
+ - dzesēšana ar ledu (tiešā saskarsmē);
+ - krējums, sviests, eļļa apdeguma vietā;
+ - olas baltums apdeguma vietā;
+ - pārsiešana;
+ - pielipušu, piedegušu apģērbu noraušana;
+ - pūšļu atvēršana;
+ - ziedes, pūderi, dezinfekcijas līdzekļi apdeguma vietā.
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC. Apdegumi, applaucēšanās"](https://www.youtube.com/watch?v=iqo4uZIibns) 04.08.2017
+
+
+
+##7.4. Rīcība ugunsgrēka laikā
+
+Apstākļi, kas ietekmē rīcību ugunsgrēka laikā:
+ - tumsa;
+ - dūmi un gāzes;
+ - karstums;
+ - laiks.
+ 
+Jārēķinās ar 30 sekundēm, lai nodzēstu ugunsgrēku vai glābtos pats.
+
+Rīcība:
+ - pārvietojieties rāpus uz durvju pusi;
+ - pārbaudiet, vai durvis ir karstas.
+ 
+Ja durvis ir karstas, neatveriet tās (nav iespējams evakuēties):
+ - durvju spraugas var aizbāzt ar mitriem dvieļiem, segām vai palagiem;
+ - rāpojiet uz loga pusi, nedaudz to atverot un elpojot gaisu, atrodoties zemu pie atvērtā loga;
+ - lekt ārā pa logu, ja esat augstāk par pirmo stāvu, ir bīstami, drošāk ir gaidīt palīdzību;
+ - lieciet apkārtējiem zināt, kur atrodaties, izkariet pa atvērto logu dvieli, palagu vai citu auduma gabalu, sauciet palīgā.
+ 
+Ja durvis nav karstas, lēni atveriet tās (ir iespēja evakuēties):
+ - aizveriet logus un durvis;
+ - atstājiet dzīvokli, paņemot līdzi atslēgas;
+ - pametiet māju pēc iespējas ātrāk;
+ - izmantojiet tikai kāpnes;
+ - kad esat drošībā, izsauciet Glābšanas dienestu, zvanot uz tālruni 112.
+ 
+Kļūdas:
+ - degšanas perēkļu meklēšana;
+ - ūdens liešana uz elektroierīcēm;
+ - ūdens liešana uz karstas pannas;
+ - skriešana stāvus cauri dūmiem;
+ - strauja loga atvēršana;
+ - liftu izmantošana, lai izkļūtu no mājas;
+ - dūmu detektoru neesamība.
+ 
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Ugunsgrēks.](https://www.youtube.com/watch?v=YPZBwerrap4) 17.07.2017
+
+
+
+
+##7.6. Atdzišana
+
+Atdzišanu (hipotermiju) izraisa ilgstoša ļoti zema temperatūra. Ja tiek pakļauts zemai temperatūrai, ķermenis sāk zaudēt siltumu ātrāk, nekā tas tiek ražots. Ilgstoša aukstuma iedarbība galu galā iztērēs ķermeņa uzkrāto enerģiju, kas novedīs pie zemākas ķermeņa temperatūras, krītoties līdz 35°C un zemāk, kas tiek uzskatīts par ķermeņa atdzišanu (hipotermiju). Sirdsdarbība (pulss) un elpošana kļūst arvien retāka un galu galā apstājas, jo aukstums ietekmē attiecīgos centrus smadzenēs.
+
+Veicinošie apstākļi:
+ - aukstums;
+ - mitrums;
+ - vējš;
+ - alkohols;
+ - neatbilstošs apģērbs;
+ - nespēja kustēties.
+ 
+Pazīmes:
+ - drebuļi;
+ - trīcošas rokas un/vai kustību samazināšanās;
+ - neskaidra runa;
+ - pēkšņs izsīkums vai zems aktivitātes līmenis;
+ - pēkšņs apjukums (nespēja skaidri domāt).
+ 
+[Ķermeņa temperatūras izmaiņas atdziestot](https://edu.lu.lv/pluginfile.php/639504/mod_book/chapter/1490/Picture9.jpg)
+ 
+
+Ķermeņa atdzišana, atrodoties ūdenī:
+
+|Ūdens temperatūra 	| Bezsamaņas stāvokļa iestāšanās 	| Nāves iestāšanās 	|
+|-------------------|---------------------------------|-------------------|
+|0°C 			           	|15 min. 							                  |15 min. – 1 st.	   |
+|10°C 		          		|30 min – 1 st. 				             	|1 – 2 st.		       	|
+|15°C 				          |2 – 4 st. 						                	|6 – 8 st.			       |
+|20°C 			          	|3 – 7 st. 							                |-				             	|
+|25°C 		          		| 12 st. 						                  	|-				             	|
+|30°C 				          |70 st. 					      	             	|-					             |
+   
+Palīdzība:
+ - izsauciet Ātro palīdzību;
+ - novietojiet cietušo siltā telpā vai vismaz aizvējā;
+ - atbrīvojiet cietušo no mitrām drēbēm, apaviem;
+ - sasedziet ar siltām, sausām drēbēm un tad ietiniet folijas segā;
+ - izmēriet ķermeņa temperatūru, ja ir termometrs;
+ - ja cietušajam nav traucēta apziņa, dodiet siltus, cukurotus dzērienus;
+ - veiciet atdzīvināšanas pasākumus, ja nepieciešams.
+ 
+ 
+Kļūdas:
+ - ātrās palīdzības neizsaukšana;
+ - rīvēšana un berzēšana;
+ - bez vajadzības kustināt rokas un kājas;
+ - karsta duša vai vanna;
+ - sēdināt vai likt staigāt;
+ - alkohols (paplašinot asinsvadus, veicina atdzišanu).
+ 
+ 
+Video: LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Ķermeņa atdzišana](https://www.youtube.com/watch?v=IYIjtQIjSH0&t=1s) 28.08.2017
+
+
+### 7.8. Apsaldējumi
+
+Apsaldējums ir aukstuma trauma, kas izraisa vietēju virspusēju vai dziļu audu bojājumu. Tas var rasties ne tikai tad, kad āra t° ir zemāka par 0°, bet arī +4°, +8° un pat augstākā t°, it īpaši tad, ja aukstums iedarbojas ilgstoši. Aukstuma iedarbībā asinsvadi sašaurinās, līdz ar to tiek traucēta audu asins apgāde. Ar laiku asinsvados izveidojas trombi, asinsrite apsaldētajā apvidū kļūst neiespējama un cietušie audi iet bojā. Visbiežāk apsalst ausis, seja, deguns, roku un kāju pirksti. 
+
+Apsaldētās vietas pazīmes:
+ - bāla āda;
+ - dedzinošas vai durstošas sāpes;
+ - jušanas samazināšanās.
+ 
+Palīdzība:
+ - nogādājiet cietušo siltā telpā;
+ - atģērbiet cietušo no cieši pieguļošām drēbēm, apaviem;
+ - ietiniet apsaldētās ķermeņa daļas sausā apģērbā;
+ - dodiet cietušajam dzert siltus, cukurotus dzērienus;
+ - izsauciet Ātro palīdzību.
+ 
+Nedodiet cietušajam alkoholu, nemasējiet, neberzējiet un nesildiet apsaldētās vietas.
+
+Kļūdas:
+ - ātrās palīdzības neizsaukšana;
+ - rīvēšana un berzēšana;
+ - sildīšana ar karstu ūdeni vai radiatoriem;
+ - ārstēšanās mājas apstākļos;
+ - sēdināt vai likt staigāt;
+ - alkohola lietošana.
+ 
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Apsaldējumi](https://www.youtube.com/watch?v=GgpD_sOYsxs) 29.08.2017
+
+
+## 8. Ķīmisko vielu izraisītie nelaimes gadījumi
+
+1. Ķīmiska viela uz ādas
+2. Ķīmiska viela acī
+3. Ķīmiska viela gremošanas traktā
+
+### 8.1. Ķīmiska viela uz ādas
+
+Veselībai un dzīvībai bīstamas ķīmiskas vielas ir ļoti dažādas ar atšķirīgu ietekmi uz organismu. Ja iespējams, gaidot mediķus, sagatavojiet datus par konkrēto vielu (lietošanas instrukcija, ķīmiskās vielas drošības datu lapa).
+
+Bīstami! Sargājiet sevi, sniedzot palīdzību!
+
+Lai samazinātu risku saskarties ar ķīmiskām vielām, vēlams lietot vienreiz lietojamos gumijas cimdus vai cita ūdens necaurlaidīga materiāla izstrādājumus (piemēram, plastikāta maisiņš).
+
+Retos ķīmisko vielu izraisītos nelaimes gadījumos cietušā elpināšana „ mute – mutē” var būt bīstama glābējam, tāpēc atdzīvināšanas pasākumos jāaprobežojas tikai ar krūškurvja kompresijām.
+
+Palīdzība:
+ - sausu vielu nopuriniet;
+ - skalojiet cietušo vietu ar vēsu (+15°C līdz + 25°C), tekošu ūdeni 20 minūtes;
+ - skalojiet tā, lai ūdens netek uz nebojāto ādu;
+ - izsauciet Ātro palīdzību;
+ - neļaujiet atdzist cietušajam/pasargājiet to no apkārtējās vides iedarbības;
+ - aprūpējiet, nomieriniet cietušo.
+ 
+Nevelciet nost cietušajam apģērbu pār galvu!
+
+Kļūdas:
+ - ātrās palīdzības neizsaukšana;
+ - skalošana ar ziepēm;
+ - ieziešana ar krēmiem, ziedēm;
+ - ārstēšanās mājās apstākļos.
+
+
+### 8.3. Ķīmiska viela acī
+
+Ķīmisku vielu iekļūšana acī ir bīstama, jo tā var izraisīt radzenes (acs virsmas) apdegumus vai arī bojāt dziļākas struktūras, kas var ietekmēt redzi. Nopietnos bojājumos var būt arī acs zaudējuma risks.
+
+Palīdzība:
+ - skalojiet traumēto aci ar vēsu (+15°C līdz + 25°C), tekošu ūdeni 20 minūtes;
+ - skalojiet tā, lai ūdens netecētu uz veselo aci;
+ - skalojot traumēto aci, turiet to vaļā;
+ - izsauciet Ātro palīdzību;
+ - pārsieniet ar sausu pārsēju abas acis;
+ - neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības;
+ - aprūpējiet, nomieriniet cietušo.
+ 
+Kļūdas:
+ - ātrās palīdzības neizsaukšana;
+ - skalošana ar ziepēm;
+ - tikai vienas acs pārsiešana;
+ - pārsiešana bez skalošanas;
+ - kontaktlēcu neizņemšana pie skalošanas;
+ - acu pārsiešana, ja nav ar ko skalot;
+ - ārstēšanās mājas apstākļos.
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Ķīmiska viela acīs](https://www.youtube.com/watch?v=kAjMxo441TY) 08.08.2017
+
+
+
+### 8.5. Ķīmiska viela gremošanas traktā
+
+Ķīmiskai vielai, nonākot gremošanas traktā, nepieciešama ātra, mērķtiecīga rīcība, kas būs atkarīga no vielas iedarbības īpašībām. Papildus ieteikumus par rīcību ķīmisko vielu izraisītos nelaimes gadījumos var saņemt Rīgas Austrumu klīniskās universitātes slimnīcas „Gaiļezers” Saindēšanās un zāļu informācijas centrā, zvanot uz tālruni 67042473. Ja iespējams, gaidot mediķus, sagatavojiet datus par konkrēto vielu (produkta iepakojumu, lietošanas instrukciju, ķīmiskās vielas drošības datu lapa).
+
+Palīdzība:
+ - izsauciet Ātro palīdzību;
+ - dodiet izskalot ar ūdeni muti;
+ - dodiet dzert vēsu ūdeni, bet ne vairāk kā 200 ml;
+ - neizraisiet vemšanu!;
+ - neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības;
+ - aprūpējiet, nomieriniet cietušo;
+ - veiciet atdzīvināšanas pasākumus, ja nepieciešams;
+ - uz slimnīcu paņemiet ķīmiskās vielas iepakojumu.
+ 
+Kļūdas.
+ - ātrās līdzības neizsaukšana;
+ - laika vilcināšana, neko nedarot;
+ - aktīvās ogles lietošana;
+ - vemšanas izraisīšana;
+ - sodas ūdens dzeršana.
+ 
+Ja ķīmiska viela ir ieelpota.
+
+Bīstami! Pārvietojieties drošā attālumā (svaigā gaisā) no nelaimes gadījuma vietas! 
+
+Palīdzība:
+ - sargājiet sevi!;
+ - izsauciet Ātro palīdzību;
+ - nodrošiniet svaigu gaisu;
+ - atbrīvojiet cietušo no cieša apģērba, kas var traucēt elpošanu;
+ - aprūpējiet, nomieriniet cietušo;
+ - ja nepieciešams, veiciet atdzīvināšanas pasākumus.
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Ķīmiska vielas norīšana. Pieaugušie](https://www.youtube.com/watch?v=jwnPQxGkT0g&t=30s) 15.08.2017
+
+
+## 9. Elektrotrauma
+
+Elektriskajai enerģijai atšķirībā no citiem enerģijas veidiem nav tādas izpausmes, uz ko reaģētu cilvēka maņu orgāni. Cilvēks nespēj no attāluma sajust elektrisko strāvu – to nevar ne ieraudzīt, ne saost, ne sadzirdēt. Elektrotrauma ir elektriskās strāvas kompleksa iedarbība uz cilvēka organismu, kā rezultātā novērojama krampjaina muskuļu saraušanās, samaņas zaudēšana, traucējumi elpošanā vai sirdsdarbībā līdz pat šo funkciju apstāšanas brīdim, kā arī vietēja ietekme apdegumu un mehānisko cilvēka organisma bojājumu veidā.
+
+### ZEMSPRIEGUMS (līdz 1000 V)
+
+Palīdzība:
+ - Sargājiet sevi!
+ - Atslēdziet strāvu!
+ - Veiciet atdzīvināšanas pasākumus, ja nepieciešams.
+ - Vienmēr izsauciet Ātro palīdzību!
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Elektrotraumas. Zemspriegums](https://www.youtube.com/watch?v=tf2mNUwfERg&t=1s) 23.08.2017
+
+
+### AUGSTSPRIEGUMS (virs 1000 V)
+
+
+Palīdzība:
+ - Sargājiet sevi!
+ - NETUVOJIETIES 8 m attālumā no nelaimes gadījuma vietas, sargieties no soļa sprieguma un elektriskā loka izlādes.
+ - Vienmēr izsauciet Ātro palīdzību, informējot par augstspriegumu.
+ - Atdzīvināšanas pasākumus, ja nepieciešams, veiciet tikai tad, kad atslēgta augstsprieguma strāva.
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Elektrotraumas. Augstspriegums](https://www.youtube.com/watch?v=HVy1mTCXPOU).. 24.08.2017
+
+### ZIBENS IZRAISĪTAS TRAUMAS
+
+Zibens trauma ir augstsprieguma elektrotrauma (līdz 50 milj.V). Zibens spēriena enerģija var izplatīties vidēji 30 m (līdz pat 100 m) attālumā nenoteiktā virzienā pa zemes virsmu. Cietušais pēc zibens spēriena glābējam nav bīstams, bīstami ir atrasties ilgstoši negadījuma vietā, jo zibens var iespert vienā vietā atkārtoti.
+Palīdzība:
+ - aizvelciet cietušo no negadījuma vietas;
+ - veiciet atdzīvināšanas pasākumus, ja nepieciešams;
+ - vienmēr izsauciet Ātro palīdzību.
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Zibens spēriens](https://www.youtube.com/watch?v=DOmdhPYYar4) 07.08.2017
+
+
+## 10. Slīkšana
+
+Slīkšana ir process, kurā primāri rodas elpošanas traucējumi, ko izraisa iegremdēšanās šķidrumā. Slīkšanas iemesli ūdenī ir saistīti ar elpošanas traucējumiem, ūdenim nonākot elpošanas ceļos, sirdsdarbības apstāšanos, balsenes spazmu, aukstuma šoku, atkārtoto "slīkšanu" un traumām.
+
+Rīcība gadījumā, ja cilvēks slīkst:
+ - glābiet cietušo tikai tad, ja tas neapdraud Jūsu dzīvību, izvērtējot savas peldēšanas un glābēja prasmes;
+ - sargieties no slīkstošā tvēriena;
+ - visdrošākā ir glābšana no krasta, pametiet virvē iesietu glābšanas riņķi vai kādu citu peldošu priekšmetu, kurš slīkstošajam palīdzētu noturēties virs ūdens;
+ - iegaumējiet notikuma vietu, lai varētu glābējiem norādīt, kur notikusi nelaime;
+ - nekavējoties izsauciet glābējus, zvanot 112;
+ - sagaidiet glābējus un norādiet cietušā atrašanās vietu;
+ - vienmēr izsauciet Ātro palīdzību;
+ - ātro palīdzību jāliek izsaukt apkārtējiem cilvēkiem, ja ir tāda iespēja.
+ 
+Palīdzība:
+ - veiciet atdzīvināšanas pasākumus, ja nepieciešams;
+ - nepametiet negadījuma vietu pirms atbrauc Ātrā palīdzība, jo cietušā stāvoklis var pasliktināties.
+ - parūpējieties, lai cietušais justos droši, komfortabli, lai viņam būtu silti;
+ - sasedziet cietušo un dodiet dzert siltu šķidrumu, nekādā gadījumā nedodiet alkoholu!;
+ - sniedziet pēc iespējas plašāku informāciju par notikušo mediķiem un glābšanas dienestam, pastāstiet, vai cietušais bija bezsamaņā vai elpoja un kas tika darīts.
+ - jāizsauc Ātrā palīdzība arī tad, ja cietušais slīcis, bet jau izglābts un sākotnēji jūtas apmierinoši, jo pastāv atkārtotas “slīkšanas” risks.
+ 
+Video:
+www.vugd.gov.lv
+
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Slīcēja glābšana. Pieaugušie](https://www.youtube.com/watch?v=X_wH3Ba8emE) 28.07.2017
+ 
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Slīcēja glābšana. Bērni](https://www.youtube.com/watch?v=E6PSLvYb7JA&t=1s) 31.07.2017
+
+
+## 11. Traumas
+
+1. Roku un kāju traumas
+2. Mugurkaula traumas
+3. Galvas traumas
+4. Krūškurvja traumas
+5. Vēdera traumas
+6. Asiņošana no deguna
+7. Rīcība autoavārijas vietā
+8. Amputācijas
+9. Izsists zobs
+
+
+### 11.1. Roku un kāju traumas
+
+
+Tās var būt:
+ - brūces;
+ - sasitumi;
+ - sastiepumi;
+ - izmežģījumi;
+ - lūzumi.
+ 
+Raksturīgākās pazīmes:
+ - sāpes;
+ - deformācija;
+ - nespēja kustināt locekli;
+ - pietūkums.
+ 
+Necentieties atšķirt dažādus traumu veidus un vienmēr pieņemiet, ka trauma var būt lūzums!
+
+Palīdzība:
+
+Ja traumēts augšdelms vai kāja:
+
+1. Nekustiniet, nepārvietojiet cietušo; pārvietojiet tikai tad, ja draud briesmas dzīvībai; saglabājiet traumas radīto deformāciju; pārvietojot cietušo, saudzējiet augšdelmu vai kāju (ja nepieciešams pārvietot).
+2. Izsauciet Ātro palīdzību.
+3. Neļaujiet atdzist cietušajam, pasargājiet to no apkārtējās vides iedarbības.
+4. Aprūpējiet, nomieriniet cietušo.
+
+Ja traumēts apakšdelms:
+
+ - fiksējiet roku ar diviem trīsstūrveida lakatiņiem un varat transportēt cietušo pats;
+ - saglabājiet traumas radīto deformāciju.
+ 
+Neliec šinu!
+
+Palīdzība, ja ir brūce:
+ - pārsieniet tikai ar sausiem, vēlams, steriliem pārsējiem;
+ - nelietojiet ziedes, pūderus, dezinfekcijas.
+Kļūdas:
+ - Traumētās vietas kustināšana.
+ - Stiprināšana ar cietiem priekšmetiem.
+ - Mēģinājums nokļūt ārstniecības iestādē, ja lūzuma vieta nav nostiprināta.
+ 
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC"- Ko darīt, ja lauzta roka vai kāja?](https://www.youtube.com/watch?v=975JKZhUE3o) 07.07.2017
+
+
+Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Asiņošana](https://www.youtube.com/watch?v=nKvV1nDdSD4) 14.07.2017
+
+
+
+
+
+
 
 
 
