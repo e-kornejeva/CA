@@ -274,3 +274,38 @@ PAR VISIEM AIZDOMĪGAJIEM GADĪJUMIEM ZIŅOT:
 
 3. tests
 
+Katastrofas pēc veidiem iedala dabas un cilvēka izraisītajās.
+
+Katastrofas pēc mērogiem iedala valsts, reģionāla un vietējā.
+
+Ģeofiziskās katastrofas ir zemes nogruvumi un zemestrīces.
+
+Hidroloģiskās katastrofas ir plūdi un pali.
+
+Bioloģiskās katastrofas ir epidēmija un epizootija.
+
+TEC avārijas izraisītā katastrofa ir cilvēka izraisīta, tehnogēna.
+
+Pareiza rīcība ugunsgrēka laikā telpās ir:
+- Elektroierīces atvienošana no strāvas;
+- Pannas aizvēršana ar vāku;
+- Pārvietošanās telpā rāpus;
+- Durvju aizvēršana;
+
+Pareiza rīcība vētras laikā ir:
+- Nostiprināt priekšmetus uz balkona;
+- Automašīnas nenovietot zem lieliem kokiem;
+- Aizvērt bēniņu lūkas;
+- Aizvērt logus;
+
+Pareiza rīcība pērkona (zibens) laikā ir:
+- Neslēpties zem kokiem;
+- Nekurināt krāsni;
+- Neiet ārpus telpām;
+- Nepalikt atklātās augstienēs;
+
+Pareiza rīcība zemestrīces gadījumā, ja esiet ārpus telpām ir:
+- Pārvietoties tālāk no ēkām;
+- Nestāvēt zem kokiem;
+- Nestāvēt zem tiltiem;
+- Izvairīties no panikas;
