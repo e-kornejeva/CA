@@ -1370,6 +1370,64 @@ Video LTV raidījuma "Rīta panorāmas" rubrika ["Pirmās palīdzības ABC". Ins
 
 
 
+# 8. tests
+
+Pareizā Pirmā palīdzība pie apsaldējumiem: Nogādāt cietušo siltā telpā, ietīt apsaldēto vietu sausā, siltā apģērbā, dot dzert siltus, cukurotus dzērienus, izsaukt Ātro palīdzību
+
+Mugurkaula traumas var notikt šādās nosauktajās situācijās:
+ - Sprādziens
+ - Cietušajam uzkritis liels smagums
+ - Ceļu satiksmes negadījums
+ - Kritiens no augstuma, lēciens ūdenī
+
+
+Kļūdaina glābēja rīcība šoka gadījumā:
+ - Ātrās palīdzības izsaukšana, pirms novērsts vai ierobežots šoka cēlonis
+ - Mēģinājums nokļūt ārstniecības iestādē, ja lūzuma vieta nav nostiprināta
+ - Stiprināšana ar cietiem priekšmetiem
+ - Traumētās vietas kustināšana
+
+
+Pareizā rīcība, ja gremošanas traktā nonākusi ķīmiska viela: Izsaukt Ātro palīdzību, dot izskalot ar ūdeni muti, dot dzert vēsu ūdeni, bet ne vairāk kā 200 ml, sameklēt ķīmiskās vielas iepakojumu, ko paņemt līdzi uz slimnīcu
+
+
+Pareizā pirmā palīdzība pie apdegumiem: Dzesēt ar vēsu (+15°C līdz +25°C), tekošu ūdeni vismaz 10 minūtes
+
+
+Pareizā rīcība čūskas kodiena gadījumā: Izsaukt Ātro palīdzību, nekustināt, atvēsināt koduma vietu
+
+
+Pareizā rīcība, ja uz ādas nonākusi ķīmiska viela: Skalot cietušo vietu ar vēsu (+15°C līdz + 25°C), tekošu ūdeni 20 minūtes tā, lai ūdens netek uz nebojāto vietu, izsaukt Ātro palīdzību
+
+
+Specifiskas insulta pazīmes: Smaidot šķība viena sejas puse, nespēja vienmērīgi pacelt abas rokas un atkārtot vienkāršus teikumus
+
+
+Pareizā rīcība, ja svešķermenis ir elpceļos un sākas smakšana: Turpināt veikt sitienus starp lāpstiņām (5 reizes) pārmaiņā ar Heimliha paņēmienu (5 grūdieni), kamēr svešķermenis iznāk ārā
+
+
+Pareizā rīcība ķermeņa atdzišanas gadījumā: Izsaukt Ātro palīdzību, ievietot cietušo siltās telpās, sasegt ar siltām, sausām drēbēm, ietīt folijas segā, dot dzert siltus cukurotos dzērienus, izmērīt ķermeņa temperatūru
+
+
+Pareizā rīcība, ja ir aizdomas par rokas vai kājas kaulu lūzumu: Ja cietušajam nedraud briesmas, nepārvietot to, saglabāt lūzuma dēļ radušos deformāciju, izsaukt Ātro palīdzību
+
+
+Kas ir jādara glābējam, lai sniegtu psiholoģisko palīdzību cietušajam: 
+ - Neatstājot cietušo vienu, pasargāt no ziņkārīgajiem garāmgājējiem
+ - Informēt par savām darbībām un notiekošo, neko nepārmetot
+ - Iepazīstināt ar sevi un uzklausīt cietušo, paziņot viņa radiniekiem
+ - Runāt mierīgi un pārliecinoši
+
+
+Pareiza rīcība bīstamas asiņošanas apturēšanā: Uzvilkt rokās gumijas cimdus vai plastikāta maisiņu, atbrīvot asiņojošo vietu no apģērba, ar spiedienu apturēt asiņošanu, pārliecināties, ka asiņošana ir apstājusies, izsaukt Ātro palīdzību, turēt brūci aizspiestu līdz Ātras palīdzības atbraukšanai
+
+
+Palīdzība jāsniedz pārkāršanas gadījumā: Novietot cietušo vēsākā vietā, atbrīvot no bieza apģērba, mitrināt ar vēsa ūdens kompresēm, dot dzert vēsu ūdeni
+
+
+Kā var droši atpazīt nelaimes gadījumus: Redzot, dzirdot palīgā saucienu, uzrunājot un pieskaroties cietušajam
+
+
 
 
 
