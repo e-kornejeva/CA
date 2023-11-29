@@ -227,3 +227,13 @@ Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības pārvalde (
 Atbildīgā ministrija vada un koordinē ar humānās palīdzības saņemšanu saistīto pasākumu īstenošanu, ja Ministru kabinets nav nolēmis citādi. Ja tā ir finansiālā palīdzība, finanšu palīdzības saņēmēja ministrija atver kontu Valsts kasē. Par finansiālās palīdzības izlietojumu lemj Ministru kabinets.
 
 
+
+ 	| Secīgi iesaistītās valsts institūcijas	| Darbības |
+	|--------|----------|
+|1.	|Atbildīga ministrija	|Sagatavo informāciju par nepieciešamību un apjomu|
+|2.	|Krīzes vadības padome	|Pieņem lēmumu par pieprasīšanu|
+|3.	|Ministru kabinets	|Pieņem lēmumu par pieprasīšanu|
+|4.	|Ārlietu ministrija	|Sazinās pa diplomātiskiem kanāliem|
+|5.	|Atbildīga ministrija	|Vada un koordinē palīdzības saņemšanu|
+|6.	|Valsts ieņēmumu dienests	|Vienkāršo muitu, atbrīvo no nodevām|
+|7.	|Valsts civilās aizsardzības kontaktpunkts	|Informē ES un NATO CA kontaktpunktus|
