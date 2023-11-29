@@ -64,8 +64,8 @@ Piemērs: pirmā palīdzība, veicot atdzīvināšanas pasākumus uz ielas un to
 
 
                                   
-| Pirmā palīdzība	| Neatliekamā medicīniskā palīdzība |
-|-------------------|-----------------------------------|
+| Pirmā palīdzība	| Pirmā palīdzība	| Neatliekamā medicīniskā palīdzība | Neatliekamā medicīniskā palīdzība |
+|-------------------|-----------------------------------|-------------------|-----------------------------------|
 |Agrīna atpazīšana un palīdzības izsaukšana	| Agrīnie atdzīvināšanas pasākumi	| Agrīna defibrilācija	| Aprūpe pēc reanimācijas |
 | Novērst sirds apstāšanos	| Vinnēt laiku	| Iedarbināt sirdi	| Atjaunot dzīves kvalitāti
 
