@@ -168,6 +168,25 @@ Katastrofu medicīnas sistēma Latvijā ir civilās aizsardzības sistēmas un [
 
 # 6. tests
 
+Cik tālu sniedzas pirmās palīdzības sniegšana negadījuma vietā: Glābējam jāizlemj pašam, vai viņš ir spējīgs veikt atdzīvināšanas pasākumus, vai tikai mēģināt apturēt asiņošanu, izsaukt Ātro palīdzību, palikt ar cietušo, kamēr tā atbrauc, un veikt citas tehniski vienkāršas lietas
+
+Kurš drīkst sniegt cietušajam pirmo palīdzību katastrofas vai negadījuma vietā: Jebkuras personas ar medicīnisko kvalifikāciju vai bez tās
+
+Agrīno atdzīvināšanas pasākumu galvenais mērķis ir: Vinnēt laiku un, ja izdosies, iedarbināt sirdi
+
+Juridiskai atbildībai par savu darbību vai bezdarbību un šādas darbības vai bezdarbības sekām, sniedzot palīdzību cietušajam, pakļauti: Speciāli šādiem gadījumiem sagatavotas (apmācītas, aprīkotas) personas ar atbilstošu medicīnas kvalifikāciju
+
+Katastrofu medicīna ir disciplīna, kas izriet no: Neatliekamās medicīniskās palīdzības un katastrofu pārvaldības savienības
+
+Izdzīvošanas ķēde uz ielas ietver sevī: Agrīno atpazīšanu un palīdzības izsaukšanu, atdzīvināšanas pasākumus, defibrilāciju un aprūpi pēc reanimācijas
+
+Neatliekamo medicīnisko palīdzību katastrofas vai negadījuma vietā drīkst sniegt: Speciāli šādiem gadījumiem sagatavotas (apmācītas, aprīkotas) personas ar atbilstošu medicīnas kvalifikāciju
+
+Saskaņā ar Starptautiskā Sarkanā Krusta un Sarkanā Pusmēness nacionālo biedrību federācijas Pasaules katastrofu ziņojumu, lai katastrofa tiktu iekļauta datu bāzē, bojāgājušo skaitam jāpārsniedz: 10
+
+Sods par cietušā atstāšanu bez palīdzības tiek paredzēts: Krimināllikumā
+
+Katastrofu pārvaldīšanas cikls secīgi sastāv no: Profilakses un ietekmes mazināšanas, Gatavības, Atbildes un Atgūšanās fāzēm
 
 
 
