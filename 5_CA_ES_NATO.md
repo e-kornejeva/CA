@@ -298,7 +298,34 @@ Par humānās palīdzības sniegšanu Ukrainai
 
 Ministru prezidents A. K. Kariņš
 
+
 # 5. tests
+
+Juridiskais pamats trīs Baltijas valstu – Igaunijas, Latvijas un Lietuvas – sadarbībai civilās aizsardzības jomā un savstarpējai palīdzībai katastrofu pārvaldīšanā un to seku likvidēšanā: 
+Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības trīspusējais nolīgums par sadarbību katastrofu novēršanas, gatavības un reaģēšanas jomā
+
+Latvijaas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības trīspusējais nolīgums par sadarbību katastrofu novēršanas, gatavības un reaģēšanas jomā:
+ - Pārtikas un ūdens resursu nodrošināšana
+ - Spēja efaektīvi tikt galā ar nekontrolētu cilvēku pārvietošanos un masveida upuriem
+ - Energoapgādes, transporta, telekomunikāciju un kibernētisko tīklu darbības nepārtrauktība
+ - Valdības uan kritisko sabiedrisko pakalpojumu nepārtrauktība
+
+ES civilās aizsardzības mehānisma ietvaros izveidoto “Eiropas ārkārtas reaģēšanas spēju” (European Emergency Response Capacity (EERC)) uzdevumi ir: Dalībvalstu brīvprātīgi pieteikto reaģēšanas spēju uzskaite, to mērķu noteikšana un kvalitātes prasību uzturēšana sertifikācijas un reģistrācijas procesā
+
+Valsts institūcija humānās palīdzības pieprasīšanas iniciators: Atbildīgā ministrija
+
+Kāds ir NATO vai ārkārtīgas ieinteresētības efektīvā civilā aizsardzībā dalībvalsts vadošais iemesls: Efektīva karaspēka un aprīkojuma transportēšana ir atkarīga no cilvēkresursiem un satiksmes infrastruktūras, kura ir civilās sabiedrības daļas pārziņā (ostas, dzelzceļi, lidlauki, ceļi)
+
+Operatīva koncepcija par civiliedzīvotāju aizsardzību Apvienoto Nāciju Organizācijas miera uzturēšanā operācijās piedāvā trīs līmeņu pieeju: Politiskā procesa izmantošanu miera sarunu ceļā, civiliedzīvotāju sargāšanu no fiziskās vardarbības, izveidojot bēgļu novietnes, aizsargājošas vides izveidošanu, reformējot policiju, tiesu un aizsardzības nozari
+
+Latvijas Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības pārvaldē esošais Valsts civilās aizsardzības kontaktpunkts uztur sakarus ar: Eiroatlantisko Katastrofu palīdzības koordinācijas centru (EADRCC) un Eiropas Komisijas Ārkārtas reaģēšanas koordinācijas centru (ERCC)
+
+Eiropas Savienības Civilās aizsardzības mehānisms sevī ietver: Izveidošanas lēmumu un pavadošos dokumentus, Eiropas Komisijas Ārkārtas reaģēšanas koordinācijas centru (ERCC), Kopējo ārkārtas sakaru un informācijas sistēmu (CECIS), kā arī dalībvalstu ekspertu apzināšanu un apmācību
+
+Ministru Kabinets pieņem lēmumu par humānās palīdzības sniegšanu.
+
+Trīs galvenie dalībvalstu civilās aizsardzības plānošanas aspekti, kas ietekmē NATO sabiedroto spējas: Valdības darba nepārtrauktība, pamatpakalpojumu nodrošināšana iedzīvotājiem, civilo atbalsts militārām operācijām
+
 
 
 
