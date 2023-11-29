@@ -146,3 +146,32 @@ Ja nav pieejams AED, turpiniet ārejo sirds masāžu un mākslīgo elpināšanu.
 
 Jebkurā nelaimes gadījumā, kad cietušais ir zaudējis samaņu, ir jārīkojas pēc atdzīvināšanas pasākumu principiem, ievērojot dzīvības glābšanas BLS algoritmu. Tikai tā var iekļauties dzīvības glābšanas ķēdē, un Ātras palīdzības mediķi varēs turpināt cietuša glābšanu.
 
+
+# 7. tests
+Darbība, kas jāveic vispirms, nonākot negadījuma vietā: Pārliecināties aapar savu un apkārtējo drošību
+
+Ja pēc pirmā elpināšanas mēģinājuma krūškurvis nepaceļas, tad pirms nākamās elpināšanas:
+ - Ja elpināšanas neizdodas, tās neatkārto, neveic vairāk kā 2 elpināšanas
+ - Pārbauda, vai ir aizspiests cietušā deguns
+ - Pārbauda, vai cietušā galva ir atliekta un zods pacelts
+ - Paskatās cietušā mutē un izņem visus redzamos svešķermeņus
+
+Ja cietušais ir bezsamaņā, bet elpo labi, nepieciešams: Novietot cietušo stabilā sānu pozā un atkārtoti pārliecināties, ka viņš elpo
+
+Sirds masāžas tempam un dziļumam ir jābūt: 100-120 reizēm minūtē un 5-6 cm dziļumā
+
+Dzīvības glābšanas BLS algoritma sastāvdaļas ir: Elpošanas ceļu atbrīvošana, sirds masāžas, elpināšana un defibrilācija
+
+Elpošanas ceļu atbrīvošana tiek veikta: Noliecot cietušā galvas pieres daļu uz leju un paceļot zodu uz augšu
+
+Ja cietušais nereaģē/neatbild, uzskatot, ka viņš ir zaudējis samaņu, pirmām kārtām nepieciešams: Saukt palīgā citus, likt tiem izsaukt Ātro palīdzību
+
+Atdzīvināšanas pasākumi sastāv no: 30 sirds masāžām un 2 elpināšanām
+
+Lai pārbaudītu un izvērtētu cietušā elpošanu, nepieciešams: Skatīties uz krūškurvja kustībām, dzirdēt elpošanas skaņas un just ar vaigu cietušā izelpu
+
+Atdzīvināšanas pasākumus pārtrauc tikai tad, ja:
+ - Jūsu spēki izsīkst
+ - Cietušais sāk kustēties, atver acis
+ - Cietušais vismaz 2 reizes pilnvērtīgi ieelpo
+ - Ierodas Ātrā palīdzība un pārņem cietušā atdzīvināšanu
