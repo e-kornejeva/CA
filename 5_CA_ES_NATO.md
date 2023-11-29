@@ -228,7 +228,7 @@ Atbildīgā ministrija vada un koordinē ar humānās palīdzības saņemšanu s
 
 
 
- 	|--| Secīgi iesaistītās valsts institūcijas	| Darbības |
+ 	|      		| Secīgi iesaistītās valsts institūcijas	| Darbības |
 	|-------------------------------------------|----------|
 	|1.			|Atbildīga ministrija		|Sagatavo informāciju par nepieciešamību un apjomu|
 	|2.			|Krīzes vadības padome		|Pieņem lēmumu par pieprasīšanu|
