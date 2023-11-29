@@ -104,5 +104,21 @@ Vairāk par sistēmas darbību: http://www.one2many.eu/en/cell-broadcast/how-it-
 
 [Šūnu apraides ziņu piemērs 4](#@@host#/pluginfile.php/641726/mod_book/chapter/1921/image%20%283%29.png)
 
+# 4. tests
 
+
+VUGD ieslēdz Civilās trauksmes un apziņošanas sistēmu Latvijā.
+
+Vai pastāv iespēja informēt par apdraudējumu lokāli, izmantojot šūnu apraidi - Jā.
+
+Vai pastāv iespēja ieslēgt Civilās trauksmes un apziņošanas sistēmu Latvijā lokāli - Nē
+
+
+Vai pastāv iespēja informēt par apdraudējumu lokāli, izmantojot sms risinājumu - Jā.
+
+
+Kādi Latvijā ir paziņošanas veidi par apdraudējumu:
+ - Ziņa telefonā
+ - Mediji
+ - Civilās aun apziņošanas sistēma
 
