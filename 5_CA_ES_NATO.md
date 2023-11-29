@@ -263,7 +263,6 @@ Atbildīgā ministrija vai tās pilnvarotā persona kārto humānās palīdzība
 
 Nodokļu maksātāji, kuri ziedo finanšu līdzekļus vai mantu budžeta iestādēm vai sabiedriskā labuma organizācijām humānās palīdzības sniegšanai, var piemērot nodokļa atvieglojumus saskaņā ar likuma “Par uzņēmumu ienākuma nodokli” 20.pantu vai likuma “Par iedzīvotāju ienākuma nodokli” 10.pantu atbilstoši nodokļa maksātāja statusam.
 
-
 |		|Secīgi iesaistītās valsts institūcijas	| Darbības |
 |-------|---------------------------------------|----------|
 |1.	|Valsts civilās aizsardzības kontaktpunkts	|Saņem humānas palīdzības pieprasījumu|
@@ -272,13 +271,16 @@ Nodokļu maksātāji, kuri ziedo finanšu līdzekļus vai mantu budžeta iestād
 |4.	|Ministru kabinets	|Pieņem lēmumu par atbalstu|
 |5.	|Ārlietu ministrija	|Vada ekspertu grupu, sazinās pa diplomātiskiem kanāliem|
 |6.	|Ekspertu grupa	|Vada un koordinē palīdzības sniegšanu|
-|7.	|Iekšlietu ministrija – Valsts materiālās rezerves	Resursi palīdzībaiv
+|7.	|Iekšlietu ministrija – Valsts materiālās rezerves	| Resursi palīdzībai|
 |8.	|Ekonomikas ministrija	|Apzina preces un pakalpojumus|
 |9.	|Zemkopības ministrija	|Apzina preces un pakalpojumus|
 |10.|Satiksmes ministrija	|Sniedz informāciju par transportu, izmaksām, laiku|
 |11.|Atbildīgā ministrija	|Kārto muitas formalitātes|
 |12.|Valsts ieņēmumu dienests	|Vienkāršo muitu, atbrīvo no nodevām|
 |13.|Valsts civilās aizsardzības kontaktpunkts	|Informē ES un NATO CA kontaktpunktus|
+
+
+
 
 
 
