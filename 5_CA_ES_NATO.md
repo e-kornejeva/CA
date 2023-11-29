@@ -240,3 +240,48 @@ Atbildīgā ministrija vada un koordinē ar humānās palīdzības saņemšanu s
 
 
 
+
+### Humānas palīdzības sniegšana
+
+Atbildīgā ministrija pēc informācijas saņemšanas no valsts katastrofas vai krīzes situācijā, vai no starptautiskas organizācijas ar humānās palīdzības pieprasījumu nekavējoties ierosina sasaukt Krīzes vadības padomes sēdi, lai lemtu par sniedzamās humānās palīdzības veidu un apjomu. Ja Krīzes vadības padomes locekļi vienojas par humānās palīdzības nepieciešamību, Ārlietu ministrs sasauc Krīzes vadības padomes ekspertu grupu humānās palīdzības sagatavošanas un piegādes koordinēšanai (turpmāk – ekspertu grupa).
+
+Ekspertu grupu vada Ārlietu ministrs vai viņa pilnvarota persona, ja Krīzes vadības padome nav lēmusi citādi. Ekspertu grupas sastāvā ir Aizsardzības ministrijas, Ārlietu ministrijas, Ekonomikas ministrijas, Finanšu ministrijas, Iekšlietu ministrijas, Satiksmes ministrijas, Veselības ministrijas un Zemkopības ministrijas deleģēti pārstāvji. 
+
+Ja nepieciešams, ekspertu grupa darba izpildei var pieaicināt citus speciālistus, kā arī pieprasīt no citām valsts institūcijām darbam nepieciešamo informāciju.
+
+Ekspertu grupa:
+•	saskaņo humānās palīdzības paketes saturu, apjomu un piegādes laikus valstij vai starptautiskai organizācijai katastrofas vai krīzes situācijā;
+•	organizē humānās palīdzības sūtījuma sagatavošanu un koordinē tā piegādi, seko līdzi katastrofas vai krīzes situācijā nonākušās valsts attīstībai un izvērtē papildu resursu piesaistes nepieciešamību;
+•	izdara secinājumus un ierosinājumus Krīzes vadības padomei, ja humānās palīdzības sniegšanas gaitā ir konstatētas nepilnības.
+
+Atbildīgā ministrija atbild par tās rīcībā esošo (tai skaitā glabāšanā nodoto) materiālo rezervju sagatavošanu humānās palīdzības sniegšanai.
+Ekonomikas ministrija un Zemkopības ministrija apzina komersantus, kuru preces un pakalpojumi varētu veidot humānās palīdzības sūtījumu, kā arī organizē resursu sagatavošanu humānās palīdzības sniegšanai.
+
+Satiksmes ministrija pēc ekspertu grupas pieprasījuma sniedz informāciju par pieejamajiem transportlīdzekļiem, to izmantošanas izmaksām, kā arī prognozējamo nepieciešamo laiku humānās palīdzības nogādāšanai starptautiskajai organizācijai vai uz katastrofā skarto vai krīzes situācijā nonākušo valsti.
+
+Atbildīgā ministrija vai tās pilnvarotā persona kārto humānās palīdzības sūtījuma muitas formalitātes, kā arī nodrošina nepieciešamo dokumentu iesniegšanu Valsts ieņēmumu dienesta muitas iestādē, Valsts ieņēmumu dienesta muitas iestāde nodrošina humānās palīdzības sūtījumu ārpuskārtas muitas kontroli, atbrīvo no nodevām.
+
+Nodokļu maksātāji, kuri ziedo finanšu līdzekļus vai mantu budžeta iestādēm vai sabiedriskā labuma organizācijām humānās palīdzības sniegšanai, var piemērot nodokļa atvieglojumus saskaņā ar likuma “Par uzņēmumu ienākuma nodokli” 20.pantu vai likuma “Par iedzīvotāju ienākuma nodokli” 10.pantu atbilstoši nodokļa maksātāja statusam.
+
+
+|		|Secīgi iesaistītās valsts institūcijas	| Darbības |
+|-------|---------------------------------------|----------|
+|1.	|Valsts civilās aizsardzības kontaktpunkts	|Saņem humānas palīdzības pieprasījumu|
+|2.	|Atbildīgā ministrija	|Sagatavo informāciju par nepieciešamību un apjomu|
+|3.	|Krīzes vadības padome	|Pieņem lēmumu par atbalstu|
+|4.	|Ministru kabinets	|Pieņem lēmumu par atbalstu|
+|5.	|Ārlietu ministrija	|Vada ekspertu grupu, sazinās pa diplomātiskiem kanāliem|
+|6.	|Ekspertu grupa	|Vada un koordinē palīdzības sniegšanu|
+|7.	|Iekšlietu ministrija – Valsts materiālās rezerves	Resursi palīdzībaiv
+|8.	|Ekonomikas ministrija	|Apzina preces un pakalpojumus|
+|9.	|Zemkopības ministrija	|Apzina preces un pakalpojumus|
+|10.|Satiksmes ministrija	|Sniedz informāciju par transportu, izmaksām, laiku|
+|11.|Atbildīgā ministrija	|Kārto muitas formalitātes|
+|12.|Valsts ieņēmumu dienests	|Vienkāršo muitu, atbrīvo no nodevām|
+|13.|Valsts civilās aizsardzības kontaktpunkts	|Informē ES un NATO CA kontaktpunktus|
+
+
+
+
+
+
