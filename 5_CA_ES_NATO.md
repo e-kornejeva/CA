@@ -261,7 +261,7 @@ Satiksmes ministrija pēc ekspertu grupas pieprasījuma sniedz informāciju par 
 
 Atbildīgā ministrija vai tās pilnvarotā persona kārto humānās palīdzības sūtījuma muitas formalitātes, kā arī nodrošina nepieciešamo dokumentu iesniegšanu Valsts ieņēmumu dienesta muitas iestādē, Valsts ieņēmumu dienesta muitas iestāde nodrošina humānās palīdzības sūtījumu ārpuskārtas muitas kontroli, atbrīvo no nodevām.
 
-Nodokļu maksātāji, kuri ziedo finanšu līdzekļus vai mantu budžeta iestādēm vai sabiedriskā labuma organizācijām humānās palīdzības sniegšanai, var piemērot nodokļa atvieglojumus saskaņā ar likuma “Par uzņēmumu ienākuma nodokli” 20.pantu vai likuma “Par iedzīvotāju ienākuma nodokli” 10.pantu atbilstoši nodokļa maksātāja statusam.
+Nodokļu maksātāji, kuri ziedo finanšu līdzekļus vai mantu budžeta iestādēm vai sabiedriskā labuma organizācijām humānās palīdzības sniegšanai, var piemērot nodokļa atvieglojumus saskaņā ar likuma “Par uzņēmumu ienākuma nodokli” [20.pantu](https://likumi.lv/ta/id/194325#p20) vai likuma “Par iedzīvotāju ienākuma nodokli” [10.pantu](https://likumi.lv/ta/id/194325#p10) atbilstoši nodokļa maksātāja statusam.
 
 |		|Secīgi iesaistītās valsts institūcijas	| Darbības |
 |-------|---------------------------------------|----------|
