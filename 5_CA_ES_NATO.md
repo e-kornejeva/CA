@@ -211,7 +211,7 @@ Latvijas Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības p�
 
 ## 4. Humānās palīdzības pieprasīšana un sniegšana
 
-[Valsts mēroga katastrofās](https://edu.lu.lv/pluginfile.php/640394/mod_book/chapter/1611/image%20%284%29.png) esošie resursi var būt nepietiekami, nepieciešams lūgt humāno palīdzību.
+[Valsts mēroga katastrofās](#@@host/pluginfile.php/640394/mod_book/chapter/1611/image%20%284%29.png) esošie resursi var būt nepietiekami, nepieciešams lūgt humāno palīdzību.
  
 
 Humāno palīdzību valstij, kuru skārusi katastrofa vai krīzes situācija, sniedz materiālās, finansiālās vai loģistikas palīdzības veidā (ieskaitot ekspertu piesaisti). Ekspertīzi veic atbildīgā ministrija, kas Ministru kabineta noteikumos Nr. 659 ir ministrija, kuras funkcijas saskaņā ar Valsts civilās aizsardzības plānu atbilst konkrētajam apdraudējuma veidam.
