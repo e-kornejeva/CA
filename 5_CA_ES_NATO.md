@@ -187,7 +187,7 @@ NATO plānošanā civilā aizsardzība galvenokārt ir saistīta ar valsts plān
 •	civilo atbalstu militārām operācijām.
 
 
-2016. gadā NATO precizēja kritērijus civilās gatavības pakāpes novērtēšanai. Tie ir:
+2016.gadā NATO precizēja kritērijus civilās gatavības pakāpes novērtēšanai.Tie ir:
 1.	Valdības un kritisko sabiedrisko pakalpojumu nepārtrauktība.
 2.	Energoapgādes nepārtrauktība.
 3.	Spēja efektīvi tikt galā ar nekontrolētu cilvēku pārvietošanos.
