@@ -280,6 +280,30 @@ Nodokļu maksātāji, kuri ziedo finanšu līdzekļus vai mantu budžeta iestād
 |13.|Valsts civilās aizsardzības kontaktpunkts	|Informē ES un NATO CA kontaktpunktus|
 
 
+Piemērs:
+Ministru kabineta rīkojums Nr. 14 Rīgā 2022. gada 1. martā (prot. Nr. 12 24. §)
+
+
+Par humānās palīdzības sniegšanu Ukrainai
+
+1.	Atbalstīt humānās palīdzības sniegšanu Ukrainai, ņemot vērā Krievijas militārā iebrukuma Ukrainā izraisīto apdraudējumu iedzīvotājiem.
+
+2.	Neatliekamās medicīniskās palīdzības dienestam sagatavot humānās palīdzības sūtījumu (antibiotikas gentamicīns – 2 500 ampulas, antibiotikas penicilīns G – 2 500 flakoni, intravenozās ievades sistēmas – 5 000 gab., nātrija tiosulfāta šķīdumu injekcijām – 3 500 ampulas, šļirces – 24 220 gab., elastīgās saites 6 cm x 4,5 m –  200 gab., elastīgās saites 8 cm x 4,5 m – 280 gab.).
+
+3.	Valsts aizsardzības loģistikas un iepirkumu centram sagatavot humānās palīdzības sūtījumu (medicīniskie cimdi – 10 000 pāri, medicīniskās maskas – 50 000 gab., dezinfekcijas līdzeklis virsmām – 3 000 litri) no centralizēti iegādāto rezervju resursiem.
+
+4.	Valsts aizsardzības loģistikas un iepirkumu centram organizēt šā rīkojuma 2. un 3. punktā minētās humānās palīdzības sūtījuma nodošanu  nogādāšanai Ukrainā.
+
+5.	Veselības ministrijai sadarbībā ar Aizsardzības ministriju apkopot informāciju par humānās palīdzības sniegšanā izlietoto resursu atjaunošanai nepieciešamajiem izdevumiem, kā arī sagatavot un iesniegt Ministru kabinetā rīkojuma projektu par finanšu līdzekļu piešķiršanu no valsts budžeta programmas 02.00.00 "Līdzekļi neparedzētiem gadījumiem". Noteikt, ka papildus piešķiramais finansējums, kas nepieciešams humānās palīdzības sniegšanā izlietoto resursu atjaunošanai, nepārsniedz 25 723 eiro.
+
+Ministru prezidents A. K. Kariņš
+
+# 5. tests
+
+
+
+
+
 
 
 
