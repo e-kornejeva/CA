@@ -112,7 +112,7 @@ Tēmas “Civilās aizsardzības plānu nepieciešamība” apakštēmā “Biol
 
 Tēmas “Civilās aizsardzības plānu nepieciešamība” apakštēmā “Dzelzceļa stacijas.” dota tabula ar Valsts nozīmes paaugstinātas bīstamības objektu sarakstu – dzelzceļa infrastruktūras objektiem, to adresēm un tālruņa numuriem
 Tēmas “Civilās aizsardzības plānu nepieciešamība” apakštēmā “Bīstama ķīmiska viela” ir attēls ar drošības datu lapas piemēru</ content>
- Tēmas “Civilās aizsardzības plānu nepieciešamība” apakštēmā “Bīstama ķīmiska viela” aplūkojami attēli ar ķīmisko vielu piktogrammām un to skaidrojumiem.</ content>
+ Tēmas “Civilās aizsardzības plānu nepieciešamība” apakštēmā “Bīstama ķīmiska viela” aplūkojami attēli ar ķīmisko vielu piktogrammām un to skaidrojumiem.
  Tēmas “Civilās aizsardzības plānu nepieciešamība” apakštēmā “Bīstama ķīmiska viela” pie viegli uzliesmojošām vielām redzams attēls ar GHS 02 piktogrammu
  Tēmas “Civilās aizsardzības plānu nepieciešamība” apakštēmā “Bīstama ķīmiska viela” pie viegli uzliesmojošām vielām redzams attēls ar GHS 01 piktogrammu
  Tēmas “Civilās aizsardzības plānu nepieciešamība” apakštēmā “Bīstama ķīmiska viela” par oksidētāju tematu dots attēls ar oksidētāju piktogrammu
