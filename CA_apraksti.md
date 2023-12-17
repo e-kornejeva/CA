@@ -128,3 +128,187 @@ Testu atvēršana un laika norādīšana:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Saturs
+
+
+1. Tēma. CIVILĀS AIZSARDZĪBAS SISTĒMA VALSTĪ	3
+2. Tēma. KATASTROFU PĀRVALDĪŠANA, PLĀNOŠANA UN PASĀKUMU ĪSTENOŠANA	4
+3. Tēma. IESPĒJAMĀS KATASTROFAS UN TO SEKAS	6
+4. Tēma. CIVILĀS TRAUKSMES UN APZIŅOŠANAS SISTĒMA VALSTĪ, PLAŠSAZIŅU LĪDZEKĻU LOMA ĀRKĀRTAS SITUĀCIJĀS UN KATASTROFĀS	8
+5. Tēma. CIVILĀ AIZSARDZĪBA APVIENOTO NĀCIJU ORGANIZĀCIJAS, EIROPAS SAVIENĪBAS UN NATO KONTEKSTĀ, HUMĀNAS PALĪDZĪBAS PIEPRASĪŠANA UN SNIEGŠANA	9
+6. Tēma. PIRMĀ PALĪDZĪBA UN NEATLIEKAMĀ MEDICĪNISKĀ PALĪDZĪBA. KATASTROFU MEDICĪNAS ORGANIZĒŠANA VALSTĪ	12
+7. Tēma. DZĪVĪBAS GLĀBŠANAS ABC ALGORITMS, ĀRĒJĀS SIRDS MASĀŽAS UN MĀKSLĪGĀS PLAUŠU VENTILĀCIJAS PAŅĒMIENU PRAKTISKĀ ĪSTENOŠANA KOPSAVILKUMS	14
+8. Tēma. PIRMĀS PALĪDZĪBAS SNIEGŠANA	16
+9. Tēma. RADIĀCIJAS, BĪSTAMO ĶĪMISKO VIELU UN BIOLOĢISKO AĢENTU IETEKME UZ CILVĒKA ORGANISMU, BĪSTAMO ĶĪMISKO VIELU KLASIFIKĀCIJA, UZGLABĀŠANA UN PĀRVADĀŠANA	19
+10. Tēma. RĪCĪBA UGUNSGRĒKA GADĪJUMĀ UN EVAKUĀCIJA	21
+11. Tēma. LABĀS PRAKSES PIEMĒRI UN PIEREDZE NO STARPTAUTISKAJĀM MISIJĀM	22
+
+ 
+1. tēma
+1. Tēma. CIVILĀS AIZSARDZĪBAS SISTĒMA VALSTĪ
+TESTS
+1.	Kuri no minētajiem pasākumiem atbilst katastrofas pārvaldīšanas pasākumiem? Atbilde ir: Preventīvie, gatavības, reaģēšanas, seku likvidēšanas, atjaunošanas pasākumi
+2.	Kādi ir katastrofas veidi civilās aizsardzības un katastrofas pārvaldīšanas likuma izpratnē?  Atbilde ir: Dabas katastrofas un cilvēku izraisītas katastrofas
+3.	Ko nozīmē minētais termins? Notikums, kas izraisījis cilvēku upurus un apdraud cilvēku dzīvību vai veselību, nodarījis kaitējumu vai radījis apdraudējumu cilvēkiem, videi vai īpašumam, kā arī radījis vai rada būtiskus materiālos un finansiālos zaudējumus un pārsniedz atbildīgo valsts un pašvaldības institūciju ikdienas spējas novērst notikuma postošos apstākļus, ir katastrofa
+4.	Kā apzīmē (sauc) robežu starp jūras piekrastes sauszemes daļu un jūras piekrastes ūdeņiem normālā stāvoklī?  Atbilde ir: jūras krasta līnija
+5.	Kas ietilpst PAMATVAJADZĪBĀS?  Atbilde ir: uzturs, mājoklis, veselības aprūpe, medicīniskā palīdzība, elektroapgāde, ūdensapgāde, siltumapgāde, atkritumu un notekūdeņu savākšana, sakaru nodrošinājums 
+2. tēma
+2. Tēma. KATASTROFU PĀRVALDĪŠANA, PLĀNOŠANA UN PASĀKUMU ĪSTENOŠANA
+TESTS
+1.	Ko ietver katastrofas pārvaldīšana?  Atbilde ir: preventīvos pasākumus; gatavības pasākumus; reaģēšanas pasākumus; seku likvidēšanas pasākumus; atjaunošanas pasākumus (visas atbildes pareizas)
+3.	Kura no ministrijām vadīs katastrofu, kas saistīta ar militāro infrastruktūru?  Atbilde ir: Aizsardzības ministrija
+4.	Kura no ministrijām vadīs katastrofu, ko izraisījusi avārija HES?  Atbilde ir: Klimata un enerģētikas ministrija
+5.	Kuras ministrijas ir VUGD padotības iestāde?  Atbilde ir: Iekšlietu ministrija
+6.	Kura no ministrijām vadīs ar ķīmiskās vielas noplūdi saistīto katastrofu?   Atbilde ir: VARAM
+7.	Kura no ministrijām uzņemsies vadību epidēmijas gadījumā?  Atbilde ir: Veselības ministrija
+8.	Kura no ministrijām vadīs ar masveida dzīvnieku saslimšanu saistīto katastrofu?  Atbilde ir: Zemkopības ministrija
+9.	Kurš dienests likvidēs epifitotijas sekas?   Atbilde ir: Valsts augu aizsardzības dienests
+11.	Kurš dienests likvidēs bīstamās ķīmiskās vielas noplūdes sekas jūras krastā?   Atbilde ir: Valsts vides dienests
+12.	Kurš dienests likvidēs elektrotīklu bojājumus?    Atbilde ir: AS Sadales tīkls
+ 
+3. tēma
+3. Tēma. IESPĒJAMĀS KATASTROFAS UN TO SEKAS
+TESTS
+1.	Kā iedala katastrofas pēc veidiem?   Atbilde ir: Dabas un cilvēka izraisītajās
+2.	Kā iedala katastrofas pēc mērogiem?   Atbilde ir: Valsts, reģionāla un vietējā
+3.	Kuras ir ģeofiziskās katastrofas?   Atbilde ir: Zemes nogruvumi; Zemestrīces
+4.	Kuras ir hidroloģiskās katastrofas?   Atbilde ir: Plūdi; Pali
+5.	Kuras ir bioloģiskās katastrofas?   Atbilde ir: Epidēmija; Epizootija
+6.	Kāda veida katastrofa ir TEC avārijas izraisītā?   Atbilde ir: cilvēka izraisītā; Tehnogēnā
+7.	Kāda ir pareiza rīcība ugunsgrēka laikā telpās?   Atbilde ir: Elektroierīces atvienošana no strāvas; Pannas aizvēršana ar vāku; Pārvietošanās telpā rāpus; Durvju aizvēršana
+8.	Kāda ir pareiza rīcība vētras laikā?   Atbilde ir: Nostiprināt priekšmetus uz balkona; Automašīnas nenovietot zem lieliem kokiem; Aizvērt bēniņu lūkas; Aizvērt logus;
+9.	Kāda ir pareiza rīcība pērkona (zibens) laikā?   Atbilde ir: Neslēpties zem kokiem; Nekurināt krāsni; Neiet ārpus telpām; Nepalikt atklātās augstienēs;
+10.	Kāda ir pareiza rīcība zemestrīces gadījumā, ja esiet ārpus telpām?   Atbilde ir: Pārvietoties tālāk no ēkām; Nestāvēt zem kokiem; Nestāvēt zem tiltiem; Izvairīties no panikas 
+4. tēma
+4. Tēma. CIVILĀS TRAUKSMES UN APZIŅOŠANAS SISTĒMA VALSTĪ, PLAŠSAZIŅU LĪDZEKĻU LOMA ĀRKĀRTAS SITUĀCIJĀS UN KATASTROFĀS
+TESTS
+1.	Kādi Latvijā ir paziņošanas veidi par apdraudējumu?  Atbilde ir: Ziņa telefonā; Mediji; Civilās trauksmes un apziņošanas sistēma
+2.	Kas ieslēdz Civilās trauksmes un apziņošanas sistēmu Latvijā?   Atbilde ir: VUGD
+3.	Vai pastāv iespēja ieslēgt Civilās trauksmes un apziņošanas sistēmu Latvijā lokāli?   Atbilde ir: Nē
+4.	Vai pastāv iespēja informēt par apdraudējumu lokāli, izmantojot šūnu apraidi?   Atbilde ir: Jā
+5.	Vai pastāv iespēja informēt par apdraudējumu lokāli, izmantojot sms risinājumu?  Atbilde ir: Jā 
+5. tēma
+5. Tēma. CIVILĀ AIZSARDZĪBA APVIENOTO NĀCIJU ORGANIZĀCIJAS, EIROPAS SAVIENĪBAS UN NATO KONTEKSTĀ, HUMĀNAS PALĪDZĪBAS PIEPRASĪŠANA UN SNIEGŠANA
+TESTS
+11.	Kurš ir juridiskais pamats triju Baltijas valstu – Igaunijas, Latvijas un Lietuvas – sadarbībai civilās aizsardzības jomā un savstarpējai palīdzībai katastrofu pārvaldīšanā un to seku likvidēšanā?    Atbilde ir: Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības trīspusējais nolīgums par sadarbību katastrofu novēršanas, gatavības un reaģēšanas jomā.
+12.	Operatīva koncepcija par civiliedzīvotāju aizsardzību Apvienoto Nāciju Organizācijas miera uzturēšanā operācijās piedāvā trīs līmeņu pieeju: Politiskā procesa izmantošanu miera sarunu ceļā, civiliedzīvotāju sargāšanu no fiziskās vardarbības, izveidojot bēgļu novietnes, aizsargājošās vides izveidošanu, reformējot policiju, tiesu un aizsardzības nozari.
+13.	ES civilās aizsardzības mehānisma ietvaros izveidoto “Eiropas ārkārtas reaģēšanas spēju” (European Emergency Response Capacity (EERC)) uzdevumi ir Dalībvalstu brīvprātīgi pieteikto reaģēšanas spēju uzskaite, to mērķu noteikšana un kvalitātes prasību uzturēšana sertifikācijas un reģistrācijas procesā.
+14.	Eiropas Savienības Civilās aizsardzības mehānisms sevī ietver: Izveidošanas lēmumu un pavadošos dokumentus, Eiropas Komisijas Ārkārtas reaģēšanas koordinācijas centru (ERCC), Kopējo ārkārtas sakaru un informācijas sistēmu (CECIS), kā arī dalībvalstu ekspertu apzināšanu un apmācību.
+15.	Kāds ir NATO vai ārkārtīgas ieinteresētības efektīvā civilā aizsardzībā dalībvalsts vadošais iemesls?   Atbilde ir: Efektīva karaspēka un aprīkojuma transportēšana ir atkarīga no cilvēkresursiem un satiksmes infrastruktūras, kura ir civilās sabiedrības daļas pārziņā (ostas, dzelzceli, lidlauki, celi).
+16.	Kuri ir trīs galvenie dalībvalstu civilās aizsardzības plānošanas aspekti, kas ietekmē NATO sabiedroto spējas?   Atbilde ir: Valdības darba nepārtrauktība, pamatpakalpojumu nodrošināšana iedzīvotājiem, civilo atbalsts militārām operācijām.
+17.	Kurš no uzskaitītajiem kritērijiem NATO tiek izmantots civilās gatavības pakāpes novērtēšanai?   Atbilde ir: Visi nosauktie kritēriji.
+18.	Latvijas Valsts ugunsdzēsības un glābšanas dienesta Operatīvās vadības pārvaldē esošais Valsts civilās aizsardzības kontaktpunkts uztur sakarus ar: Eiroatlantisko Katastrofu palīdzības koordinācijas centru (EADRCC) un Eiropas Komisijas Ārkārtas reaģēšanas koordinācijas centru (ERCC).
+19.	Kura no minētajām valsts institūcijām ir humānās palīdzības pieprasīšanas iniciators?   Atbilde ir: Atbildīgā ministrija
+20.	Kas pieņem lēmumu par humānās palīdzības sniegšanu?   Atbilde ir: Ministru Kabinets
+ 
+6. tēma
+6. Tēma. PIRMĀ PALĪDZĪBA UN NEATLIEKAMĀ MEDICĪNISKĀ PALĪDZĪBA. KATASTROFU MEDICĪNAS ORGANIZĒŠANA VALSTĪ
+TESTS
+1.	Kurš drīkst sniegt cietušajam pirmo palīdzību katastrofas vai negadījuma vietā?    Atbilde ir: Jebkuras personas ar medicīnisko kvalifikāciju vai bez tās.
+2.	Neatliekamo medicīnisko palīdzību katastrofas vai negadījuma vietā drīkst sniegt: Speciāli šādiem gadījumiem sagatavotas (apmācītas, aprīkotas) personas ar atbilstošu medicīnas kvalifikāciju.
+3.	Juridiskai atbildībai par savu darbību vai bezdarbību un šādas darbības vai bezdarbības sekām, sniedzot palīdzību cietušajam, pakļauti: Speciāli šādiem gadījumiem sagatavotas (apmācītas, aprīkotas) personas ar atbilstošu medicīnas kvalifikāciju.
+4.	Sods par cietušā atstāšanu bez palīdzības tiek paredzēts: Krimināllikumā. 
+5.	Cik tālu sniedzas pirmās palīdzības sniegšana negadījuma vietā?  Atbilde ir: Glābējam jāizlemj pašam, vai viņš ir spējīgs veikt atdzīvināšanas pasākumus, vai tikai mēģināt apturēt asiņošanu, izsaukt Ātro palīdzību, palikt ar cietušo, kamēr tā atbrauc,  un veikt citas tehniski vienkāršas lietas.
+6.	Izdzīvošanas ķēde uz ielas ietver sevī: Agrīno atpazīšanu un palīdzības izsaukšanu, atdzīvināšanas pasākumus, defibrilāciju un aprūpi pēc reanimācijas.
+7.	Agrīno atdzīvināšanas pasākumu galvenais mērķis ir: Vinnēt laiku un, ja izdosies, – iedarbināt sirdi.
+8.	Saskaņā ar Starptautiskā Sarkanā Krusta un Sarkanā Pusmēness nacionālo biedrību federācijas Pasaules katastrofu ziņojumu, lai katastrofa tiktu iekļauta datu bāzē, bojāgājušo skaitam jāpārsniedz: 10
+9.	Katastrofu medicīna ir disciplīna, kas izriet no: Neatliekamās medicīniskās palīdzības un katastrofu pārvaldības savienības.
+10.	Katastrofu pārvaldīšanas cikls secīgi sastāv no: Profilakses un ietekmes mazināšanas, Gatavības, Atbildes un Atgūšanās fāzēm.
+ 
+7. tēma
+7. Tēma. DZĪVĪBAS GLĀBŠANAS ABC ALGORITMS, ĀRĒJĀS SIRDS MASĀŽAS UN MĀKSLĪGĀS PLAUŠU VENTILĀCIJAS PAŅĒMIENU PRAKTISKĀ ĪSTENOŠANA KOPSAVILKUMS
+TESTS
+
+1.	Kuru no nosauktām darbībām jāveic pirmām kārtam, nonākot negadījuma vietā?  Atbilde ir: Pārliecināties par savu un apkārtējo drošību;
+2.	Ja cietušais nereaģē/neatbild, uzskatot, ka viņš zaudējis samaņu, pirmām kārtām nepieciešams: Saukt palīgā citus, likt tiem izsaukt Ātro palīdzību.
+3.	Ja cietušais ir bezsamaņā, bet elpo labi, nepieciešams: Novietot cietušo stabilā sānu pozā un atkārtoti pārliecināties, ka viņš elpo.
+4.	Lai pārbaudītu un izvērtētu cietušā elpošanu, nepieciešams:  Skatīties uz krūškurvja kustībām, dzirdēt elpošanas skaņas un just ar vaigu cietušā izelpu.
+5.	Dzīvības glābšanas ABC algoritma sastāvdaļas ir: Elpošanas ceļu atbrīvošana, sirds masāžas un elpināšana.
+
+6.	Elpošanas ceļu atbrīvošana tiek veikta: Noliecot cietuša galvas pieres daļu uz leju un paceļot zodu uz augšu.
+7.	Ja pēc pirmā elpināšana mēģinājuma krūškurvis nepaceļas, tad pirms nākošas elpināšanas: Veic visas augstāk nosauktās darbības.
+8.	Atdzīvināšanas pasākumi sastāv no: 30 sirds masāžām un 2 elpināšanām.
+9.	Sirds masāžas tempam un dziļumam ir jābūt: 100-120 reizēm minūtē un 5-6 cm dziļumā.
+10.	Atdzīvināšanas pasākumus pārtrauc tikai tad, ja: Pareizs ir jebkurš no augstāk nosauktiem iemesliem. 
+8. tēma
+8. Tēma. PIRMĀS PALĪDZĪBAS SNIEGŠANA
+TESTS
+1.	Kā var droši atpazīt nelaimes gadījumus?  Atbilde ir: Redzot, dzirdot palīgā saucienu, uzrunājot un pieskaroties cietušajam.
+2.	Kas ir jādara glābējam, lai sniegtu psiholoģisko palīdzību cietušajam?   Atbilde ir: Veikt visas augstāk uzskaitītās darbības.
+3.	Kāda ir pareiza rīcība bīstamas asiņošanas apturēšanā?  Atbilde ir: Uzvilkt rokās gumijas cimdus vai plastikāta maisiņu, atbrīvot asiņojošo vietu no apģērba, ar spiedienu apturēt asiņošanu, pārliecināties, ka asiņošana ir apstājusies, izsaukt Ātro palīdzību, turēt brūci aizspiestu līdz Ātras palīdzības atbraukšanai.
+4.	Kura ir kļūdaina glābēja rīcība šoka gadījumā?   Atbilde ir: Visas augstāk uzskaitītās darbības ir kļūdainas.
+5.	Kāda palīdzība jāsniedz pārkāršanas gadījumā?  Atbilde ir: Novietot cietušo vēsākā vietā, atbrīvot no bieza apģērba, mitrināt ar vēsa ūdens kompresēm, dot dzert vēsu ūdeni.
+6.	Kura ir pareizā pirmā palīdzība pie apdegumiem?  Atbilde ir: Dzesēt ar vēsu (+15°C līdz +25°C), tekošu ūdeni vismaz 10 minūtes.
+7.	Kura ir pareizā rīcība ķermeņa atdzišanas gadījumā?  Atbilde ir: Izsaukt Ātro palīdzību, ievietot cietušo siltās telpās, sasegt ar siltām, sausām drēbēm, ietīt folijas segā, dot dzert siltus cukurotos dzērienus, izmērīt ķermeņa temperatūru.
+8.	Kura ir pareizā Pirmā palīdzība pie apsaldējumiem?  Atbilde ir: Nogādā cietušo siltā telpā, ietin apsaldēto vietu sausā silta apģērbā, dod dzert siltu cukurotos dzērienus, izsauc Ātro palīdzību. 
+9.	Kura ir pareizā rīcība, ja uz ādas nonākusi ķīmiska viela?  Atbilde ir: Skalot cietušo vietu ar vēsu (+15°C līdz + 25°C), tekošu ūdeni 20 minūtes tā, lai ūdens netek uz nebojāto vietu, izsaukt Ātro palīdzību. 
+10.	Kura ir pareizā rīcība, ja gremošanas traktā nonākusi ķīmiska viela?   Atbilde ir: Izsaukt Ātro palīdzību, dot izskalot ar ūdeni muti, dot dzert vēsu ūdeni, bet ne vairāk kā 200 ml, sameklēt ķīmiskās vielas iepakojumu, ko paņemt līdzi uz slimnīcu.
+11.	Kura ir pareizā rīcība, ja svešķermenis ir elpceļos un sākas smakšana?  Atbilde ir: Turpināt veikt sitienus starp lāpstiņām (5 reizes) pārmaiņā ar  Heimliha paņēmienu (5 grūdieni), kamēr svešķermenis iznāk ārā.
+12.	Kura ir pareizā rīcība čūskas kodiena gadījumā?  Atbilde ir: Izsaukt Ātro palīdzību, nekustināt, atvēsināt koduma vietu.
+13.	Kura ir pareizā rīcība, ja ir aizdomas par rokas vai kājas kaulu lūzumu?  Atbilde ir: Ja cietušajam nedraud briesmas, nepārvietot to, saglabāt lūzuma dēļ radušos deformāciju, izsaukt Ātro palīdzību.
+14.	Kurā no nosauktajām situācijām var notikt mugurkaula traumas?  Atbilde ir: Visās nosauktajās situācijās.
+15.	Kuras ir specifiskas insulta pazīmes?  Atbilde ir: Smaidot šķība viena sejas puse, nespēja vienmērīgi pacelt abas rokas un atkārtot vienkāršus teikumus.
+
+ 
+9. tēma
+9. Tēma. RADIĀCIJAS, BĪSTAMO ĶĪMISKO VIELU UN BIOLOĢISKO AĢENTU IETEKME UZ CILVĒKA ORGANISMU, BĪSTAMO ĶĪMISKO VIELU KLASIFIKĀCIJA, UZGLABĀŠANA UN PĀRVADĀŠANA
+TESTS
+1.	Kādās kategorijās vai klasēs iedala PBO?  Atbilde ir: 	A, B, C
+2.	Kas regulē ķīmisko vielu reģistrēšanu, marķēšanu, risku apzināšanu un pārvaldīšanu?  Atbilde ir: REACH
+3.	Iegādājos flīžu tīrīšanas līdzekli un pēc darba ar to, sāka sūrstēt roka. Kur varu iegūt informāciju par līdzekļa sastāvu un rīcību šajā situācijā?  Atbilde ir: DDL
+4.	Ko nozīmē šī piktogramma?   Atbilde ir: Akūts toksiskums
+5.	Ko nozīmē šī piktogramma?  Atbilde ir: Oksidējošs
+6.	Ko apzīmē H riska frāze?  Atbilde ir: Bīstamību
+7.	Ko apzīmē P riska frāze?  Atbilde ir: drošas uzglabāšanas prasības; Drošības prasības
+8.	Kā sauc procesu - ķīmisku pārvērtību, kuras gaitā izdalās daudz siltuma un parasti veidojas arī liesma?  Atbilde ir: Degšanas
+9.	Kas ir intoksikācija?  Atbilde ir: Skābekļa trūkums organismā
+ 
+10. tēma
+10. Tēma. RĪCĪBA UGUNSGRĒKA GADĪJUMĀ UN EVAKUĀCIJA
+TESTS
+1.	Kas nepieciešams, lai notiktu degšana?  Atbilde ir: Temperatūra, skābeklis, materiāls
+2.	Kādi ir ugunsgrēka preventīvie pasākumi?  Atbilde ir: Dūmu detektoru izmantošana; Ugunsdzēsības signalizācijas sistēmas izbūve
+3.	Kādi ir reaģēšanas pasākumi ugunsgrēka gadījumā?  Atbilde ir: 112; Ugunsdzēšamā aparāta izmantošana; Skābekļa atņemšana ar pulveri; skābekļa atņemšana ar nedegošu segu; Atdzesēšana ar ūdeni; Atdzesēšana ar CO2
+4.	Kāda ir pareiza rīcība ugunsgrēka gadījumā darba vietā?  Atbilde ir: 112 var zvanīt ikviens, kurš pamana aizdegšanos; Uzsākt evakuāciju; Atslēgt elektroenerģiju; Atslēgt ventilāciju; Sagaidīt ugunsdzēsējus uz ielas;
+5.	Kā izskatās evakuācijas zīmes?   Atbilde ir: Baltas bultas uz zaļā fona 
+11. tēma
+11. Tēma. LABĀS PRAKSES PIEMĒRI UN PIEREDZE NO STARPTAUTISKAJĀM MISIJĀM
+TESTS
+1.	Apvienoto Nāciju Organizācijas Brīvprātīgo programmas dalībnieki piedalās: Starptautiskās nabadzības mazināšanas, demokrātiskās pārvaldības ieviešanas, enerģētikas un vides attīstīšanas, krīžu novēršanas un veselības aprūpes pakalpojumu pieejamības veicināšanas programmās.
+2.	Kas ir Miera korpuss (Peace Corps)?  Atbilde ir: Brīvprātīgo organizācija, kas ir pārmaiņu veidotāji, lai panāktu pozitīvas pārmaiņas, palīdzētu atgūties no attīstības un veselības neveiksmēm, atbalstītu jauno paaudzi.
+3.	Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītais personāls nav tiesīgs piedalīties karadarbībā, izņemot, ja tas nepieciešams pašaizsardzības nolūkos?   Atbilde ir: SFOR; KFOR
+
+4.	Kuras no nosauktajām ir starptautiskās miera uzturēšanas operācijas, kuru mērķis ir miera atjaunošana un uzturēšana konflikta zonās, kurās iesaistītajam personālam ir tiesības piedalīties karadarbībā?  Atbilde ir: ISAF; OCEAN SHIELD
+5.	Kura no nosauktajām ir starptautiskā glābšanas operācija, kuru mērķis ir dabas katastrofu seku likvidēšana, civiliedzīvotāju evakuācija no apdraudētajām teritorijām vai līdzīga rakstura darbību veikšana?   Atbilde ir: TRITON
+6.	Kura no nosauktajām ir starptautiskā militārā operācija, kuras mērķis ir īstenot Apvienoto Nāciju Organizācijas dalībvalstu tiesības uz kolektīvo pašaizsardzību, kā noteikts Apvienoto Nāciju Organizācijas Statūtu 51. pantā?   Atbilde ir: OCEAN SHEALD
+7.	Ko NATO nodrošināja ANO humānas palīdzības misijā pēc 2005. gada zemestrīces Kašmirā?  Atbilde ir: Gaisa tiltu ar dalībvalstu transporta lidmašīnām, nodrošinot humānas palīdzības kravu nepārtrauktu piegādi zemestrīcē cietušajiem.
+8.	Kuri faktori noteica Ebolas epidēmijas sākumu Rietumāfrikā, 2014. gada februārī?   Atbilde ir: Visi augstāk uzskaitītie faktori.
+9.	Lai apturētu Ebolas epidēmijas izplatību, PVO noteica galveno starptautiskās misijas uzdevumu:  Atbilde ir: Pārtraukt pārnešanu no cilvēka uz cilvēku.
+10.	PVO noteiktie galvenie starptautiskās misijas Ebolas likvidēšanai rīcības pamatprincipi:  Atbilde ir: Gadījumu identifikācija, kontaktpersonu izsekošana, izolēšana un aprūpe, stingra infekcijas kontroles ievērošana slimnīcās, sabiedrības izglītošana.
+
