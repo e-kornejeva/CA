@@ -10,6 +10,7 @@
 1.tēma.Civilās aizsardzības sistēma valstī: Apakštēmā “Civilās aizsardzības vadība un struktūra” iekļauts attēls, kurā parādīts cilvēks aizsargtērpā ar uzrakstu “Glābšanas darbu vadītājs”.
 1.tēma.Civilās aizsardzības sistēma valstī: apakštēmā “Civilās aizsardzības mācības” skatāms 4 minūšu videosižets no Daugavpils televīzijas, kurā stāstīts par starptautiskām civilās aizsardzības mācībām, kas noritējušas Daugavpilī.
 
+
 Civilās aizsardzības sistēma valstī.Organizācijas “National Fire Protection Association” publicēts videomateriāls, kas demonstrē atšķirību, cik ātri telpās aizdegas un nodeg Ziemassvētku eglīte, kas netiek laistīta, un tāda – kas tiek laistīta.Videosaite: https://www.youtube.com/watch?v=xr6b9b8FYKk
 
  Civilās aizsardzības sistēma valstī.Videomateriāls: LVM darbinieki dzēš meža ugunsgrēku.Videosaite: https://youtu.be/9txvcG8Fw4w
