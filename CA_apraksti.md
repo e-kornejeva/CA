@@ -120,7 +120,10 @@ Tēmas “Civilās aizsardzības plānu nepieciešamība” apakštēmā “Bīs
  Tēmas “Civilās aizsardzības plānu nepieciešamība” apakštēmā “Bīstama ķīmiska viela” aplūkojami attēli ar sārmu un skābju izraisīto apdegumu piemēriem.
 
 
+Testu atvēršana un laika norādīšana: 
+• Pašpārbaudes testi ir izveidoti katras tēmas beigās un noslēguma tests visu tēmu beigās.
 
+• Iesniegto atbilžu rezultāti pieejami kursa sākuma sadaļā pie “Vērtējumiem”.
 
 
 
